@@ -8,25 +8,25 @@
   {
     "id": "2",
     "name": "РККА Минск 250м",
-    "size": "467мг",
+    "size": "467 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-minsk-250m.zip"
   },
   {
     "id": "3",
     "name": "Верстовка Беларусь Центр",
-    "size": "580мг",
+    "size": "580 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-centr.zip"
   },
   {
     "id": "4",
     "name": "Верстовка Беларусь Запад",
-    "size": "500мг",
+    "size": "500 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-zapad.zip"
-  }
+  },
   {
     "id": "5",
-    "name": "3х верстовка шацк",
-    "size": "29мг",
+    "name": "3х верстовка запад",
+    "size": "290 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3verstSHATCK.zip"
   }
 ]
