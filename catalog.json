@@ -2,25 +2,31 @@
   {
     "id": "1",
     "name": "Фитинг Минской губернии 1846",
-    "size": "445 MB",
+    "size": "359 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/fitingof-minskaya-guberniya-1846g.zip"
   },
   {
     "id": "2",
     "name": "РККА Минск 250м",
-    "size": "неизвестно",
+    "size": "467мг",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-minsk-250m.zip"
   },
   {
     "id": "3",
     "name": "Верстовка Беларусь Центр",
-    "size": "неизвестно",
+    "size": "580мг",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-centr.zip"
   },
   {
     "id": "4",
     "name": "Верстовка Беларусь Запад",
-    "size": "неизвестно",
+    "size": "500мг",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-zapad.zip"
+  }
+  {
+    "id": "5",
+    "name": "3х верстовка шацк",
+    "size": "29мг",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3verstSHATCK.zip"
   }
 ]
