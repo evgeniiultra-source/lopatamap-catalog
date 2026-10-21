@@ -3,30 +3,60 @@
     "id": "1",
     "name": "Фитинг Минской губернии 1846",
     "size": "359 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/fitingof-minskaya-guberniya-1846g.zip"
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/fitingof-minskaya-guberniya-1846g.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": null,
+    "bounds": [
+      [50.979816, 24.463530],
+      [55.912376, 31.295700]
+    ]
   },
   {
     "id": "2",
     "name": "РККА Минск 250м",
     "size": "467 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-minsk-250m.zip"
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-minsk-250m.zip",
+    "category": "Карты РККА",
+    "thumbnail": null,
+    "bounds": [
+      [53.304479, 26.861603],
+      [54.675022, 28.260626]
+    ]
   },
   {
     "id": "3",
     "name": "Верстовка Беларусь Центр",
     "size": "580 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-centr.zip"
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-centr.zip",
+    "category": "Верстовки",
+    "thumbnail": null,
+    "bounds": [
+      [52.478622, 26.815012],
+      [54.375046, 30.385517]
+    ]
   },
   {
     "id": "4",
     "name": "Верстовка Беларусь Запад",
     "size": "500 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-zapad.zip"
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-zapad.zip",
+    "category": "Верстовки",
+    "thumbnail": null,
+    "bounds": [
+      [52.478622, 23.244507],
+      [54.375046, 26.815012]
+    ]
   },
   {
     "id": "5",
     "name": "3хВ ШАЦК",
     "size": "290 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3verstSHATCK.zip"
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3verstSHATCK.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.097426, 26.971001],
+      [53.614839, 28.149915]
+    ]
   }
 ]
