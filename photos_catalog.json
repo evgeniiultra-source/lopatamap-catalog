@@ -2,14 +2,14 @@
 [
   {
     "id": "photo_1",
-    "name": "Схема Шацка 1910",
-    "size": "4.2 MB",
-    "url": "https://huggingface.co/ваш_аккаунт/фото/resolve/main/shatsk_1910.jpg"
+    "name": "Фото минска 15 мая 1943",
+    "size": "6 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/luft_minsk.jpg"
   },
   {
     "id": "photo_2",
-    "name": "План Минска 1795 (фрагмент)",
-    "size": "2.1 MB",
-    "url": "https://huggingface.co/ваш_аккаунт/фото/resolve/main/minsk_1795.jpg"
+    "name": "ПГМ минск",
+    "size": "32 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/pgm-minsk.jpg"
   }
 ]
