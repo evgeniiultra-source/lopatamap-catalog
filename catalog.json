@@ -53,7 +53,7 @@
     "size": "290 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3verstSHATCK.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": "https://github.com/evgeniiultra-source/lopatamap-catalog/blob/main/images/3xSHATCK.png",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/d9eadf1aa7a460b2f8937340c7016838ce4092a9/images/3xSHATCK.png",
     "bounds": [
       [53.097426, 26.971001],
       [53.614839, 28.149915]
