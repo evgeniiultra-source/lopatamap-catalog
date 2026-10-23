@@ -467,4 +467,16 @@
       [52.199793, 30.359544]
     ]
   }
+  {
+  "id": "39",
+  "name": "Poland-1937-3k",
+  "size": null,
+  "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/poland-1937-3K.zip",
+  "category": "Польша 1937",
+  "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/dc46fa7225a8df05f54b373c131ca71d8542b95b/images/image.png",
+  "bounds": [
+    [47.719664, 14.171629],
+    [56.096457, 28.453777]
+  ]
+ }
 ]
