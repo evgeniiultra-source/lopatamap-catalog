@@ -514,5 +514,17 @@
       [51.230690, 23.001330],
       [56.189891, 32.117942]
     ]
+  },
+  {
+    "id": "44",
+    "name": "3хВ 15-7",
+    "size": "15 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.635867, 28.090772],
+      [54.042764, 29.179068]
+    ]
   }
 ]
