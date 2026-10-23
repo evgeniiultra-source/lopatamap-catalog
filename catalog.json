@@ -470,7 +470,7 @@
   {
     "id": "40",
     "name": "РБ-ПЛ",
-    "size": 550 MB,
+    "size": "550 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/zapad-bel-pl.zip",
     "category": "Польша запад рб",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/c42501b34d30ee90f84ce7158830f6dfb0151478/images/shubert.jpg",
@@ -482,7 +482,7 @@
   {
     "id": "41",
     "name": "Poland-1937-3k",
-    "size": 500 MB,
+    "size": "500 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/poland-1937-3K.zip",
     "category": "Польша 1937",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/dc46fa7225a8df05f54b373c131ca71d8542b95b/images/image.png",
