@@ -60,3 +60,413 @@
     ]
   }
 ]
+[
+  {
+    "id": "6",
+    "name": "3хВ 12-7",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/12-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [55.017851, 27.979685],
+      [55.531610, 29.214499]
+    ]
+  },
+  {
+    "id": "7",
+    "name": "3хВ 12-8",
+    "size": "15мг",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/12-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [55.031187, 29.152329],
+      [55.531610, 30.352560]
+    ]
+  },
+  {
+    "id": "8",
+    "name": "3хВ 13-6",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-6.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.519957, 26.858592],
+      [55.037851, 28.077856]
+    ]
+  },
+  {
+    "id": "9",
+    "name": "3хВ 13-8",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.556376, 29.152329],
+      [55.054521, 30.360375]
+    ]
+  },
+  {
+    "id": "10",
+    "name": "3хВ 13-9",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.561965, 30.305550],
+      [55.054521, 31.499607]
+    ]
+  },
+  {
+    "id": "11",
+    "name": "3хВ 14-6",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-6.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.044550, 26.895131],
+      [54.565534, 28.098994]
+    ]
+  },
+  {
+    "id": "12",
+    "name": "3хВ 14-7",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.065943, 28.026724],
+      [54.576376, 29.228441]
+    ]
+  },
+  {
+    "id": "13",
+    "name": "3хВ 14-8",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.076899, 29.162693],
+      [54.584574, 30.372457]
+    ]
+  },
+  {
+    "id": "14",
+    "name": "3хВ 14-9",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.086855, 30.305550],
+      [54.584574, 31.492008]
+    ]
+  },
+  {
+    "id": "15",
+    "name": "3хВ 15-2",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-2.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.371161, 22.460085],
+      [53.926142, 23.699997]
+    ]
+  },
+  {
+    "id": "16",
+    "name": "3хВ 15-4",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-4.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.490755, 24.689284],
+      [54.028459, 25.907557]
+    ]
+  },
+  {
+    "id": "17",
+    "name": "3хВ 15-5",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-5.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.534590, 25.803854],
+      [54.064550, 27.019093]
+    ]
+  },
+  {
+    "id": "18",
+    "name": "3хВ 15-6",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-6.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.572016, 26.927401],
+      [54.085943, 28.136072]
+    ]
+  },
+  {
+    "id": "19",
+    "name": "3хВ 15-8",
+    "size": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-8.zip",
+    "url": null,
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.601858, 29.189600],
+      [54.110563, 30.349880]
+    ]
+  },
+  {
+    "id": "20",
+    "name": "3хВ 15-9",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.610106, 30.301041],
+      [54.110563, 31.469202]
+    ]
+  },
+  {
+    "id": "21",
+    "name": "3хВ 16-3",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-3.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.963080, 23.645384],
+      [53.510755, 24.870626]
+    ]
+  },
+  {
+    "id": "22",
+    "name": "3хВ 16-4",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-4.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.016760, 24.752987],
+      [53.554590, 25.952647]
+    ]
+  },
+  {
+    "id": "23",
+    "name": "3хВ 16-5",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-5.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.060518, 25.855546],
+      [53.592016, 27.067843]
+    ]
+  },
+  {
+    "id": "24",
+    "name": "3хВ 16-7",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.119238, 28.073519],
+      [53.621858, 29.258589]
+    ]
+  },
+  {
+    "id": "25",
+    "name": "3хВ 16-8",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.139479, 29.189856],
+      [53.633615, 30.355157]
+    ]
+  },
+  {
+    "id": "26",
+    "name": "3хВ 16-9",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [53.139086, 30.301041],
+      [53.633615, 31.454145]
+    ]
+  },
+  {
+    "id": "27",
+    "name": "3хВ 17-3",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-3.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.488672, 23.723023],
+      [53.036760, 24.917528]
+    ]
+  },
+  {
+    "id": "28",
+    "name": "3хВ 17-4",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-4.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.546732, 24.810088],
+      [53.080518, 26.013112]
+    ]
+  },
+  {
+    "id": "29",
+    "name": "3хВ 17-5",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-5.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.588667, 25.912388],
+      [53.117426, 27.083404]
+    ]
+  },
+  {
+    "id": "30",
+    "name": "3хВ 17-7",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.656813, 28.102252],
+      [53.159479, 29.258692]
+    ]
+  },
+  {
+    "id": "31",
+    "name": "3хВ 17-8",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.659720, 29.203972],
+      [53.161272, 30.362574]
+    ]
+  },
+  {
+    "id": "32",
+    "name": "3хВ 17-9",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [52.660650, 30.304179],
+      [53.161272, 31.453256]
+    ]
+  },
+  {
+    "id": "33",
+    "name": "3хВ 18-2",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/18-2.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.949408, 22.713805],
+      [52.508672, 23.910796]
+    ]
+  },
+  {
+    "id": "34",
+    "name": "3хВ 19-3",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-3.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.543806, 23.862069],
+      [52.085352, 25.039003]
+    ]
+  },
+  {
+    "id": "35",
+    "name": "3хВ 19-4",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-4.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.594919, 24.932742],
+      [52.133402, 26.103948]
+    ]
+  },
+  {
+    "id": "36",
+    "name": "3хВ 19-5",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-5.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.638434, 26.005238],
+      [52.167139, 27.156380]
+    ]
+  },
+  {
+    "id": "37",
+    "name": "3хВ 19-6",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-6.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.677828, 27.072133],
+      [52.205698, 28.243468]
+    ]
+  },
+  {
+    "id": "38",
+    "name": "3хВ 19-7",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.704321, 28.158596],
+      [52.205698, 29.305073]
+    ]
+  },
+  {
+    "id": "39",
+    "name": "3хВ 19-8",
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [51.701182, 29.224766],
+      [52.199793, 30.359544]
+    ]
+  }
+]
