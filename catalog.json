@@ -490,5 +490,29 @@
       [47.719664, 14.171629],
       [56.096457, 28.453777]
     ]
+  },
+  {
+    "id": "42",
+    "name": "РККА 1 км",
+    "size": "188 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-1k.zip",
+    "category": "Карты РККА",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/5dbd6a869fafbf15290038ff95cc4309203b1d5c/images/7477.jpg",
+    "bounds": [
+      [51.953462, 26.971504],
+      [54.024669, 30.027123]
+    ]
+  },
+  {
+    "id": "43",
+    "name": "РККА 2 км",
+    "size": "259 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-2k.zip",
+    "category": "Карты РККА",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/db6b3a00b1013eac300a5bb79cdfca2c70929875/images/4706.jpg",
+    "bounds": [
+      [51.230690, 23.001330],
+      [56.189891, 32.117942]
+    ]
   }
 ]
