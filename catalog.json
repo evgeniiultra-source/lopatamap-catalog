@@ -58,9 +58,7 @@
       [53.097426, 26.971001],
       [53.614839, 28.149915]
     ]
-  }
-]
-[
+  },
   {
     "id": "6",
     "name": "3хВ 12-7",
@@ -220,8 +218,8 @@
   {
     "id": "19",
     "name": "3хВ 15-8",
-    "size": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-8.zip",
-    "url": null,
+    "size": null,
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-8.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
@@ -425,7 +423,7 @@
     "id": "36",
     "name": "3хВ 19-5",
     "size": null,
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-5.zip",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-5.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
