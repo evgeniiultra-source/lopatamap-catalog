@@ -526,5 +526,17 @@
       [54.046485, 28.154211],
       [54.134581, 29.214180]
     ]
+  },
+  {
+    "id": "45",
+    "name": "Верстовка РБ Север",
+    "size": "592 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/%D0%92%D0%95%D0%A0%D0%A1%D0%A2%D0%9E%D0%92%D0%9A%D0%90%20%D0%A0%D0%91%20%D0%A1%D0%95%D0%92%D0%95%D0%A0.zip",
+    "category": "Верстовки",
+    "thumbnail": null,
+    "bounds": [
+      [54.330276, 25.662031],
+      [56.173275, 30.331186]
+    ]
   }
 ]
