@@ -184,5 +184,23 @@
     "name": "1WW сморгонь2",
     "size": "245 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1ww/%D1%81%D0%BC%D0%BE%D1%80%D0%B3%D0%BE%D0%BD%D1%8C2.png"
+  },
+  {
+    "id": "photo_32",
+    "name": "1WW вилейка",
+    "size": "382 kB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1ww/%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0.jpg"
+  },
+  {
+    "id": "photo_33",
+    "name": "1WW вилейка-фото2-первая",
+    "size": "419 kB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1ww/%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0-%D1%84%D0%BE%D1%82%D0%BE2-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F.jpg"
+  },
+  {
+    "id": "photo_34",
+    "name": "1WW вилейка-фото",
+    "size": "219 kB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1ww/%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0-%D1%84%D0%BE%D1%82%D0%BE.jpg"
   }
 ]
