@@ -550,5 +550,17 @@
       [53.583838, 25.927823],
       [54.026726, 26.971566]
     ]
+  },
+  {
+    "id": "47",
+    "name": "березино слияние свислочь 1916",
+    "size": "1.7 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BE%20%D1%81%D0%B2%D0%B8%D1%81%D0%BB%D0%BE%D1%87%D1%8C%201916.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": null,
+    "bounds": [
+      [53.288791, 28.823443],
+      [53.722180, 29.084585]
+    ]
   }
 ]
