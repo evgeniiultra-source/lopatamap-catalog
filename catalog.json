@@ -562,5 +562,17 @@
       [53.288791, 28.823443],
       [53.722180, 29.084585]
     ]
+  },
+  {
+    "id": "48",
+    "name": "Шуберт Московской губернии 1860",
+    "size": "148 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Moscow/schubert-moscow-1860.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": null,
+    "bounds": [
+      [54.820351, 35.131821],
+      [56.839169, 39.286049]
+    ]
   }
 ]
