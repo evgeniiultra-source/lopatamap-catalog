@@ -202,5 +202,53 @@
     "name": "1WW вилейка-фото",
     "size": "219 kB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1ww/%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0-%D1%84%D0%BE%D1%82%D0%BE.jpg"
+  },
+  {
+    "id": "photo_35",
+    "name": "2WWMinskSeveroZapod 54.55146, 27.07626 Krzywe Siolo, Minsk",
+    "size": "3.09 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.55146%2C%2027.07626%20Krzywe%20Siolo%2C%20Minsk.jpg"
+  },
+  {
+    "id": "photo_36",
+    "name": "2WWMinskSeveroZapod 54.60015, 26.97696 Golyanovo, Minsk",
+    "size": "3.67 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.60015%2C%2026.97696%20Golyanovo%2C%20Minsk.jpg"
+  },
+  {
+    "id": "photo_37",
+    "name": "2WWMinskSeveroZapod 54.652707, 26.995322 Strezhi, Minsk",
+    "size": "4.18 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.652707%2C%2026.995322%20Strezhi%2C%20Minsk%2C.jpg"
+  },
+  {
+    "id": "photo_38",
+    "name": "2WWMinskSeveroZapod 54.657030 26.795950 Uzlyanka, Minsk",
+    "size": "3.89 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.657030%2026.795950%20Uzlyanka%2C%20Minsk.jpg"
+  },
+  {
+    "id": "photo_39",
+    "name": "2WWMinskSeveroZapod 54.659001 26.89151 Zurychy, Minsk",
+    "size": "4.29 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.659001%2026.89151%20Zurychy%2C%20Minsk.jpg"
+  },
+  {
+    "id": "photo_40",
+    "name": "2WWMinskSeveroZapod Svatkaŭskі sel'skі Savet, Myadzel District",
+    "size": "1.52 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.719351%2C%2026.996687Svatka%D1%9Esk%D1%96%20sel'sk%D1%96%20Savet%2C%20Myadzel%20District.jpg"
+  },
+  {
+    "id": "photo_41",
+    "name": "2WWMinskSeveroZapod Ljubanskі sel'skі Savet, Vileyka District",
+    "size": "1.64 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.71978982%2C%2026.89619575%20-%20Ljubansk%D1%96%20sel'sk%D1%96%20Savet%2C%20Vileyka%20District%2C.jpg"
+  },
+  {
+    "id": "photo_42",
+    "name": "2WWMinskSeveroZapod 54.75693, 26.94888 Brusy, Minsk",
+    "size": "3.15 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/foto2WW/54.75693%2C%2026.94888%20-%20Brusy%2C%20Minsk.jpg"
   }
 ]
