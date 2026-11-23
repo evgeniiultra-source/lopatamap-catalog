@@ -6135,7 +6135,16 @@
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/16-17.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/16-17.jpg",
-    "bounds": null
+    "bounds": [
+      [
+        52.706381,
+        39.039894
+      ],
+      [
+        53.337418,
+        40.330437
+      ]
+    ]
   },
   {
     "id": "343",
