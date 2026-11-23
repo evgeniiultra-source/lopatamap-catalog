@@ -3106,7 +3106,7 @@
   },
   {
     "id": "174",
-    "name": "Шацк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-6 Шацк",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3124,7 +3124,7 @@
   },
   {
     "id": "175",
-    "name": "Приморск (Коивисто). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 1-7 Приморск (Коивисто)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/1-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3142,7 +3142,7 @@
   },
   {
     "id": "176",
-    "name": "Елизаветинка (Елисаветинская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 1-8 Елизаветинка (Елисаветинская)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/1-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": "177",
-    "name": "Васкелово. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 1-9 Васкелово",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/1-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3178,7 +3178,7 @@
   },
   {
     "id": "178",
-    "name": "Кириково (Кирикова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 1-10 Кириково (Кирикова)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/1-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3196,7 +3196,7 @@
   },
   {
     "id": "179",
-    "name": "Колголемо (Колголема). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 1-11 Колголемо (Колголема)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/1-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3214,7 +3214,7 @@
   },
   {
     "id": "180",
-    "name": "Кольгомля (Колгомия). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 2-7 Кольгомля (Колгомия)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/2-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3232,7 +3232,7 @@
   },
   {
     "id": "181",
-    "name": "Санкт-Петербург. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 2-8 Санкт-Петербург",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/2-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3250,7 +3250,7 @@
   },
   {
     "id": "182",
-    "name": "Шлиссельбург. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 2-9 Шлиссельбург",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/2-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3268,7 +3268,7 @@
   },
   {
     "id": "183",
-    "name": "Новая Ладога. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 2-10 Новая Ладога",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/2-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3286,7 +3286,7 @@
   },
   {
     "id": "184",
-    "name": "Новина (Новинки). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 2-11 Новина (Новинки)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/2-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3304,7 +3304,7 @@
   },
   {
     "id": "185",
-    "name": "Спитхами (Сиинтхамн). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-3 Спитхами (Сиинтхамн)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3322,7 +3322,7 @@
   },
   {
     "id": "186",
-    "name": "Таллин (Ревель). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-4 Таллин (Ревель)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3340,7 +3340,7 @@
   },
   {
     "id": "187",
-    "name": "Вихасоо (Выхосоо). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-5 Вихасоо (Выхосоо)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3358,7 +3358,7 @@
   },
   {
     "id": "188",
-    "name": "Онтика. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-6 Онтика",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3376,7 +3376,7 @@
   },
   {
     "id": "189",
-    "name": "Кингисепп (Ямбург). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-7 Кингисепп (Ямбург)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3394,7 +3394,7 @@
   },
   {
     "id": "190",
-    "name": "Гатчино. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-8 Гатчино",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3412,7 +3412,7 @@
   },
   {
     "id": "191",
-    "name": "Тосно (Тосна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-9 Тосно (Тосна)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3430,7 +3430,7 @@
   },
   {
     "id": "192",
-    "name": "Кириши. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-10 Кириши",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3448,7 +3448,7 @@
   },
   {
     "id": "193",
-    "name": "Тихвин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-11 Тихвин",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3466,7 +3466,7 @@
   },
   {
     "id": "194",
-    "name": "Ефимовский (Ефимова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 3-12 Ефимовский (Ефимова)",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/3-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3484,7 +3484,7 @@
   },
   {
     "id": "195",
-    "name": "Кыппо (Кыпу). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-2 Кыппо (Кыпу)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3502,7 +3502,7 @@
   },
   {
     "id": "196",
-    "name": "Хаапсалу (Гапсаль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-3 Хаапсалу (Гапсаль)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3520,7 +3520,7 @@
   },
   {
     "id": "197",
-    "name": "Марьямаа (Мерьяма). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-4 Марьямаа (Мерьяма)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3538,7 +3538,7 @@
   },
   {
     "id": "198",
-    "name": "Пайде (Вейсенштейн). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-5 Пайде (Вейсенштейн)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3556,7 +3556,7 @@
   },
   {
     "id": "199",
-    "name": "Ремнику (Ремник). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-6 Ремнику (Ремник)",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3574,7 +3574,7 @@
   },
   {
     "id": "200",
-    "name": "Самро (Песье). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-7 Самро (Песье)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3592,7 +3592,7 @@
   },
   {
     "id": "201",
-    "name": "Мшинская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-8 Мшинская",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3610,7 +3610,7 @@
   },
   {
     "id": "202",
-    "name": "Бутково. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-9 Бутково",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3628,7 +3628,7 @@
   },
   {
     "id": "203",
-    "name": "Марьино (Никольское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-10 Марьино (Никольское)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3646,7 +3646,7 @@
   },
   {
     "id": "204",
-    "name": "Высочка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-11 Высочка",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3664,7 +3664,7 @@
   },
   {
     "id": "205",
-    "name": "Паледи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-12 Паледи",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3682,7 +3682,7 @@
   },
   {
     "id": "206",
-    "name": "Устюжна. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 4-13 Устюжна",
     "size": "31 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/4-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3700,7 +3700,7 @@
   },
   {
     "id": "207",
-    "name": "Вильянди (Феллин). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-5 Вильянди (Феллин)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3718,7 +3718,7 @@
   },
   {
     "id": "208",
-    "name": "Тарту (Юрьев). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-6 Тарту (Юрьев)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3736,7 +3736,7 @@
   },
   {
     "id": "209",
-    "name": "Гдов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-7 Гдов",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3754,7 +3754,7 @@
   },
   {
     "id": "210",
-    "name": "Луга. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-8 Луга",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3772,7 +3772,7 @@
   },
   {
     "id": "211",
-    "name": "Великий Новгород (Новгород). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-9 Великий Новгород (Новгород)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3790,7 +3790,7 @@
   },
   {
     "id": "212",
-    "name": "Старые Морозовичи (Морозовичи). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-10 Старые Морозовичи (Морозовичи)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3808,7 +3808,7 @@
   },
   {
     "id": "213",
-    "name": "Боровичи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-11 Боровичи",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3826,7 +3826,7 @@
   },
   {
     "id": "214",
-    "name": "Лянино (Лянина). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-12 Лянино (Лянина)",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3844,7 +3844,7 @@
   },
   {
     "id": "215",
-    "name": "Раменье. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-13 Раменье",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3862,7 +3862,7 @@
   },
   {
     "id": "216",
-    "name": "Трески (Тростянка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-6 Трески (Тростянка)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3880,7 +3880,7 @@
   },
   {
     "id": "217",
-    "name": "Липно. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-7 Липно",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3898,7 +3898,7 @@
   },
   {
     "id": "218",
-    "name": "Феофилова Пустынь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-8 Феофилова Пустынь",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3916,7 +3916,7 @@
   },
   {
     "id": "219",
-    "name": "Старая Русса. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-9 Старая Русса",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3934,7 +3934,7 @@
   },
   {
     "id": "220",
-    "name": "Крестцы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-10 Крестцы",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3952,7 +3952,7 @@
   },
   {
     "id": "221",
-    "name": "Валдай. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-11 Валдай",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3970,7 +3970,7 @@
   },
   {
     "id": "222",
-    "name": "Бологое (Горка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-12 Бологое (Горка)",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -3988,7 +3988,7 @@
   },
   {
     "id": "223",
-    "name": "Вентспилс (Виндава). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-1 Вентспилс (Виндава)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4006,7 +4006,7 @@
   },
   {
     "id": "224",
-    "name": "Пузе (Пузень). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-2 Пузе (Пузень)",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4024,7 +4024,7 @@
   },
   {
     "id": "225",
-    "name": "Печоры. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-6 Печоры",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4042,7 +4042,7 @@
   },
   {
     "id": "226",
-    "name": "Псков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-7 Псков",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4060,7 +4060,7 @@
   },
   {
     "id": "227",
-    "name": "Порхов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-8 Порхов",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4078,7 +4078,7 @@
   },
   {
     "id": "228",
-    "name": "Шестово (Шестова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-9 Шестово (Шестова)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4096,7 +4096,7 @@
   },
   {
     "id": "229",
-    "name": "Демянск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-10 Демянск",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4114,7 +4114,7 @@
   },
   {
     "id": "230",
-    "name": "Полново. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-11 Полново",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4132,7 +4132,7 @@
   },
   {
     "id": "231",
-    "name": "Хотилово (Ям Хотилово). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-12 Хотилово (Ям Хотилово)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4150,7 +4150,7 @@
   },
   {
     "id": "232",
-    "name": "Курганы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-13 Курганы",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4168,7 +4168,7 @@
   },
   {
     "id": "233",
-    "name": "Айзпуте (Газенпот). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-1 Айзпуте (Газенпот)",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4186,7 +4186,7 @@
   },
   {
     "id": "234",
-    "name": "Кулдига (Гольдинген). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-2 Кулдига (Гольдинген)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4204,7 +4204,7 @@
   },
   {
     "id": "235",
-    "name": "Рига. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-3 Рига",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4222,7 +4222,7 @@
   },
   {
     "id": "236",
-    "name": "Остров. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-7 Остров",
     "size": "47 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4240,7 +4240,7 @@
   },
   {
     "id": "237",
-    "name": "Новоржев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-8 Новоржев",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4258,7 +4258,7 @@
   },
   {
     "id": "238",
-    "name": "Холм. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-9 Холм",
     "size": "33 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4276,7 +4276,7 @@
   },
   {
     "id": "239",
-    "name": "Марево. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-10 Марево",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4294,7 +4294,7 @@
   },
   {
     "id": "240",
-    "name": "Осташков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-11 Осташков",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4312,7 +4312,7 @@
   },
   {
     "id": "241",
-    "name": "Лиепая (Либава). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-1 Лиепая (Либава)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4330,7 +4330,7 @@
   },
   {
     "id": "242",
-    "name": "Пикяляй (Пикели). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-2 Пикяляй (Пикели)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4348,7 +4348,7 @@
   },
   {
     "id": "243",
-    "name": "Елгава (Митава). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-3 Елгава (Митава)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "244",
-    "name": "Екабпилс (Якобштат). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-5 Екабпилс (Якобштат)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4384,7 +4384,7 @@
   },
   {
     "id": "245",
-    "name": "Резекне (Режица). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-6 Резекне (Режица)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4402,7 +4402,7 @@
   },
   {
     "id": "246",
-    "name": "Опочка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-7 Опочка",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4420,7 +4420,7 @@
   },
   {
     "id": "247",
-    "name": "Миритиницы (Меритеницы). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-8 Миритиницы (Меритеницы)",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4438,7 +4438,7 @@
   },
   {
     "id": "248",
-    "name": "Ситькино (Ситкина). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-9 Ситькино (Ситкина)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4456,7 +4456,7 @@
   },
   {
     "id": "249",
-    "name": "Торопец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-10 Торопец",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4474,7 +4474,7 @@
   },
   {
     "id": "250",
-    "name": "Черемушница. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-11 Черемушница",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4492,7 +4492,7 @@
   },
   {
     "id": "251",
-    "name": "Себеж. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-7 Себеж",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4510,7 +4510,7 @@
   },
   {
     "id": "252",
-    "name": "Невель. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-8 Невель",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4528,7 +4528,7 @@
   },
   {
     "id": "253",
-    "name": "Великие Луки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-9 Великие Луки",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4546,7 +4546,7 @@
   },
   {
     "id": "254",
-    "name": "Западная Двина (Ново Георгиевск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-10 Западная Двина (Ново Георгиевск)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4564,7 +4564,7 @@
   },
   {
     "id": "255",
-    "name": "Карское (Карская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-11 Карское (Карская)",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4582,7 +4582,7 @@
   },
   {
     "id": "256",
-    "name": "Яблонцево (Яблонка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-12 Яблонцево (Яблонка)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4600,7 +4600,7 @@
   },
   {
     "id": "257",
-    "name": "Нагорные Раменки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-13 Нагорные Раменки",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4618,7 +4618,7 @@
   },
   {
     "id": "258",
-    "name": "Дисна. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-7 Дисна",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4636,7 +4636,7 @@
   },
   {
     "id": "259",
-    "name": "Местечко (Озерище). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-8 Местечко (Озерище)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4654,7 +4654,7 @@
   },
   {
     "id": "260",
-    "name": "Велиж. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-9 Велиж",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4672,7 +4672,7 @@
   },
   {
     "id": "261",
-    "name": "Ельша. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-10 Ельша",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4690,7 +4690,7 @@
   },
   {
     "id": "262",
-    "name": "Белый (Белой). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-11 Белый (Белой)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4708,7 +4708,7 @@
   },
   {
     "id": "263",
-    "name": "Сычевка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-12 Сычевка",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4726,7 +4726,7 @@
   },
   {
     "id": "264",
-    "name": "Гагарин (Гжатск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-13 Гагарин (Гжатск)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4744,7 +4744,7 @@
   },
   {
     "id": "265",
-    "name": "Малькова. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-14 Малькова",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4762,7 +4762,7 @@
   },
   {
     "id": "266",
-    "name": "Тума. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-17 Тума",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4780,7 +4780,7 @@
   },
   {
     "id": "267",
-    "name": "Меленки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-18 Меленки",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4798,7 +4798,7 @@
   },
   {
     "id": "268",
-    "name": "Ульяновск (Симбирск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-24 Ульяновск (Симбирск)",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4816,7 +4816,7 @@
   },
   {
     "id": "269",
-    "name": "Советск (Тильзит). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-1 Советск (Тильзит)",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4834,7 +4834,7 @@
   },
   {
     "id": "270",
-    "name": "Юрбакас (Юрборг). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-2 Юрбакас (Юрборг)",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4852,7 +4852,7 @@
   },
   {
     "id": "271",
-    "name": "Сураж. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-9 Сураж",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4870,7 +4870,7 @@
   },
   {
     "id": "272",
-    "name": "Демидов (Поречье). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-10 Демидов (Поречье)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4888,7 +4888,7 @@
   },
   {
     "id": "273",
-    "name": "Сафоново (Борисова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-11 Сафоново (Борисова)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4906,7 +4906,7 @@
   },
   {
     "id": "274",
-    "name": "Вязьма. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-12 Вязьма",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4924,7 +4924,7 @@
   },
   {
     "id": "275",
-    "name": "Медынь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-13 Медынь",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4942,7 +4942,7 @@
   },
   {
     "id": "276",
-    "name": "Малоярославец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-14 Малоярославец",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4960,7 +4960,7 @@
   },
   {
     "id": "277",
-    "name": "Кашира. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-15 Кашира",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4978,7 +4978,7 @@
   },
   {
     "id": "278",
-    "name": "Коломна. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-16 Коломна",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -4996,7 +4996,7 @@
   },
   {
     "id": "279",
-    "name": "Спас-Клепики. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-17 Спас-Клепики",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5014,7 +5014,7 @@
   },
   {
     "id": "280",
-    "name": "Касимов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-18 Касимов",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5032,7 +5032,7 @@
   },
   {
     "id": "281",
-    "name": "Азеево. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-19 Азеево",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5050,7 +5050,7 @@
   },
   {
     "id": "282",
-    "name": "Старое Шайгово. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-21 Старое Шайгово",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5068,7 +5068,7 @@
   },
   {
     "id": "283",
-    "name": "Майна. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-24 Майна",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5086,7 +5086,7 @@
   },
   {
     "id": "284",
-    "name": "Румшишкес (Румшишки). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-3 Румшишкес (Румшишки)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5104,7 +5104,7 @@
   },
   {
     "id": "285",
-    "name": "Вильнюс (Вильна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-4 Вильнюс (Вильна)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5122,7 +5122,7 @@
   },
   {
     "id": "286",
-    "name": "Смоленск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-10 Смоленск",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5140,7 +5140,7 @@
   },
   {
     "id": "287",
-    "name": "Дорогобуж. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-11 Дорогобуж",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5158,7 +5158,7 @@
   },
   {
     "id": "288",
-    "name": "Ключи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-12 Ключи",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5176,7 +5176,7 @@
   },
   {
     "id": "289",
-    "name": "Юхнов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-13 Юхнов",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5194,7 +5194,7 @@
   },
   {
     "id": "290",
-    "name": "Калуга. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-14 Калуга",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5212,7 +5212,7 @@
   },
   {
     "id": "291",
-    "name": "Ясногорск (Лаптево). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-15 Ясногорск (Лаптево)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5230,7 +5230,7 @@
   },
   {
     "id": "292",
-    "name": "Венев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-16 Венев",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5248,7 +5248,7 @@
   },
   {
     "id": "293",
-    "name": "Рязань. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-17 Рязань",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5266,7 +5266,7 @@
   },
   {
     "id": "294",
-    "name": "Ижевское. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-18 Ижевское",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5284,7 +5284,7 @@
   },
   {
     "id": "295",
-    "name": "Спасск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-20 Спасск",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5302,7 +5302,7 @@
   },
   {
     "id": "296",
-    "name": "Инсар. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-21 Инсар",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5320,7 +5320,7 @@
   },
   {
     "id": "297",
-    "name": "Старые Турдаки (Турдаково). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-22 Старые Турдаки (Турдаково)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5338,7 +5338,7 @@
   },
   {
     "id": "298",
-    "name": "Инза. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-23 Инза",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5356,7 +5356,7 @@
   },
   {
     "id": "299",
-    "name": "Кузоватово. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-24 Кузоватово",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5374,7 +5374,7 @@
   },
   {
     "id": "300",
-    "name": "Тольятти (Ставрополь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-25 Тольятти (Ставрополь)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-25.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5392,7 +5392,7 @@
   },
   {
     "id": "301",
-    "name": "Монастырщина. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-10 Монастырщина",
     "size": "31 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5410,7 +5410,7 @@
   },
   {
     "id": "302",
-    "name": "Тринадцатидверка (Троянова Слобода). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-11 Тринадцатидверка (Троянова Слобода)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5428,7 +5428,7 @@
   },
   {
     "id": "303",
-    "name": "Спас-Деменск (Спас-Деменское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-12 Спас-Деменск (Спас-Деменское)",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5446,7 +5446,7 @@
   },
   {
     "id": "304",
-    "name": "Мещовск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-13 Мещовск",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5464,7 +5464,7 @@
   },
   {
     "id": "305",
-    "name": "Чекалин (Лихвин). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-14 Чекалин (Лихвин)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5482,7 +5482,7 @@
   },
   {
     "id": "306",
-    "name": "Тула. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-15 Тула",
     "size": "32 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5500,7 +5500,7 @@
   },
   {
     "id": "307",
-    "name": "Урванки (Новомосковск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-16 Урванки (Новомосковск)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5518,7 +5518,7 @@
   },
   {
     "id": "308",
-    "name": "Скопин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-17 Скопин",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5536,7 +5536,7 @@
   },
   {
     "id": "309",
-    "name": "Сапожок. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-18 Сапожок",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5554,7 +5554,7 @@
   },
   {
     "id": "310",
-    "name": "Шацк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-19 Шацк",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5572,7 +5572,7 @@
   },
   {
     "id": "311",
-    "name": "Вадинск (Керенск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-20 Вадинск (Керенск)",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5590,7 +5590,7 @@
   },
   {
     "id": "312",
-    "name": "Мокшан. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-21 Мокшан",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5608,7 +5608,7 @@
   },
   {
     "id": "313",
-    "name": "Городище. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-22 Городище",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5626,7 +5626,7 @@
   },
   {
     "id": "314",
-    "name": "Кузнецк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-23 Кузнецк",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5644,7 +5644,7 @@
   },
   {
     "id": "315",
-    "name": "Новоспасское. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-24 Новоспасское",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5662,7 +5662,7 @@
   },
   {
     "id": "316",
-    "name": "Пиш (Иоганнисбург). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-1 Пиш (Иоганнисбург)",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5680,7 +5680,7 @@
   },
   {
     "id": "317",
-    "name": "Гродно (Гродна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-3 Гродно (Гродна)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5698,7 +5698,7 @@
   },
   {
     "id": "318",
-    "name": "Мстиславль. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-10 Мстиславль",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5716,7 +5716,7 @@
   },
   {
     "id": "319",
-    "name": "Рославль. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-11 Рославль",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5734,7 +5734,7 @@
   },
   {
     "id": "320",
-    "name": "Жиздра. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-12 Жиздра",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5752,7 +5752,7 @@
   },
   {
     "id": "321",
-    "name": "Медынцево (Медынцова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-13 Медынцево (Медынцова)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5770,7 +5770,7 @@
   },
   {
     "id": "322",
-    "name": "Белев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-14 Белев",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5788,7 +5788,7 @@
   },
   {
     "id": "323",
-    "name": "Богородицк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-15 Богородицк",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5806,7 +5806,7 @@
   },
   {
     "id": "324",
-    "name": "Михайловский (Михайловское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-16 Михайловский (Михайловское)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5824,7 +5824,7 @@
   },
   {
     "id": "325",
-    "name": "Чаплыгин (Раненбург). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-17 Чаплыгин (Раненбург)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5842,7 +5842,7 @@
   },
   {
     "id": "326",
-    "name": "Сосновка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-18 Сосновка",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5860,7 +5860,7 @@
   },
   {
     "id": "327",
-    "name": "Башмаково. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-20 Башмаково",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5878,7 +5878,7 @@
   },
   {
     "id": "328",
-    "name": "Каменка (Дмитровское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-21 Каменка (Дмитровское)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5896,7 +5896,7 @@
   },
   {
     "id": "329",
-    "name": "Пенза. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-22 Пенза",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5914,7 +5914,7 @@
   },
   {
     "id": "330",
-    "name": "Старый Чирчим. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-23 Старый Чирчим",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5932,7 +5932,7 @@
   },
   {
     "id": "331",
-    "name": "Старая Кулатка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-24 Старая Кулатка",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5950,7 +5950,7 @@
   },
   {
     "id": "332",
-    "name": "Хвалынск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 15-25 Хвалынск",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/15-25.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5968,7 +5968,7 @@
   },
   {
     "id": "333",
-    "name": "Ломжа. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-1 Ломжа",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -5986,7 +5986,7 @@
   },
   {
     "id": "334",
-    "name": "Белосток. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-2 Белосток",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6004,7 +6004,7 @@
   },
   {
     "id": "335",
-    "name": "Костюковичи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-10 Костюковичи",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6022,7 +6022,7 @@
   },
   {
     "id": "336",
-    "name": "Хотимск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-11 Хотимск",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6040,7 +6040,7 @@
   },
   {
     "id": "337",
-    "name": "Брянск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-12 Брянск",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6058,7 +6058,7 @@
   },
   {
     "id": "338",
-    "name": "Карачев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-13 Карачев",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6076,7 +6076,7 @@
   },
   {
     "id": "339",
-    "name": "Мценск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-14 Мценск",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6094,7 +6094,7 @@
   },
   {
     "id": "340",
-    "name": "Большие Озерки (Поганыя). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-15 Большие Озерки (Поганыя)",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6112,7 +6112,7 @@
   },
   {
     "id": "341",
-    "name": "Ефремов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-16 Ефремов",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6130,7 +6130,7 @@
   },
   {
     "id": "342",
-    "name": "Первомайское (Голоженово). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-17 Первомайское (Голоженово)",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6148,7 +6148,7 @@
   },
   {
     "id": "343",
-    "name": "Мичуринск (Козлов). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-18 Мичуринск (Козлов)",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6166,7 +6166,7 @@
   },
   {
     "id": "344",
-    "name": "Тамбов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-19 Тамбов",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6184,7 +6184,7 @@
   },
   {
     "id": "345",
-    "name": "Кирсанов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-20 Кирсанов",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6202,7 +6202,7 @@
   },
   {
     "id": "346",
-    "name": "Сердобск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-21 Сердобск",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6220,7 +6220,7 @@
   },
   {
     "id": "347",
-    "name": "Петровск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-22 Петровск",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6238,7 +6238,7 @@
   },
   {
     "id": "348",
-    "name": "Старые Бурасы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-23 Старые Бурасы",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6256,7 +6256,7 @@
   },
   {
     "id": "349",
-    "name": "Вольск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-24 Вольск",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6274,7 +6274,7 @@
   },
   {
     "id": "350",
-    "name": "Широкий Буерак. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 16-25 Широкий Буерак",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/16-25.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6292,7 +6292,7 @@
   },
   {
     "id": "351",
-    "name": "Острув-Мазовецка (Остров). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-1 Острув-Мазовецка (Остров)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6310,7 +6310,7 @@
   },
   {
     "id": "352",
-    "name": "Бельск-Подляски (Бельск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-2 Бельск-Подляски (Бельск)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6328,7 +6328,7 @@
   },
   {
     "id": "353",
-    "name": "Слуцк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-6 Слуцк",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6346,7 +6346,7 @@
   },
   {
     "id": "354",
-    "name": "Клинцы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-10 Клинцы",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6364,7 +6364,7 @@
   },
   {
     "id": "355",
-    "name": "Почеп. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-11 Почеп",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6382,7 +6382,7 @@
   },
   {
     "id": "356",
-    "name": "Навля. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-12 Навля",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6400,7 +6400,7 @@
   },
   {
     "id": "357",
-    "name": "Шаблыкино. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-13 Шаблыкино",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6418,7 +6418,7 @@
   },
   {
     "id": "358",
-    "name": "Орел. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-14 Орел",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6436,7 +6436,7 @@
   },
   {
     "id": "359",
-    "name": "Корытенка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-15 Корытенка",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6454,7 +6454,7 @@
   },
   {
     "id": "360",
-    "name": "Елец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-16 Елец",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6472,7 +6472,7 @@
   },
   {
     "id": "361",
-    "name": "Липецк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-17 Липецк",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6490,7 +6490,7 @@
   },
   {
     "id": "362",
-    "name": "Волчки (Волчье). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-18 Волчки (Волчье)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6508,7 +6508,7 @@
   },
   {
     "id": "363",
-    "name": "Текино. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-19 Текино",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6526,7 +6526,7 @@
   },
   {
     "id": "364",
-    "name": "Екатеринополье (Маркуня). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-20 Екатеринополье (Маркуня)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6544,7 +6544,7 @@
   },
   {
     "id": "365",
-    "name": "Ртищево. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-21 Ртищево",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6562,7 +6562,7 @@
   },
   {
     "id": "366",
-    "name": "Аткарск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-22 Аткарск",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6580,7 +6580,7 @@
   },
   {
     "id": "367",
-    "name": "Сокур. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-23 Сокур",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6598,7 +6598,7 @@
   },
   {
     "id": "368",
-    "name": "Березняки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 17-24 Березняки",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/17-24.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6616,7 +6616,7 @@
   },
   {
     "id": "369",
-    "name": "Седльце (Седлец). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-1 Седльце (Седлец)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6634,7 +6634,7 @@
   },
   {
     "id": "370",
-    "name": "Кобрин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-3 Кобрин",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6652,7 +6652,7 @@
   },
   {
     "id": "371",
-    "name": "Мотоль. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-4 Мотоль",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6670,7 +6670,7 @@
   },
   {
     "id": "372",
-    "name": "Погост. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-5 Погост",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6688,7 +6688,7 @@
   },
   {
     "id": "373",
-    "name": "Милевичи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-6 Милевичи",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6706,7 +6706,7 @@
   },
   {
     "id": "374",
-    "name": "Секеричи (Секиричи). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-7 Секеричи (Секиричи)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6724,7 +6724,7 @@
   },
   {
     "id": "375",
-    "name": "Домановичи. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-8 Домановичи",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6742,7 +6742,7 @@
   },
   {
     "id": "376",
-    "name": "Гомель. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-9 Гомель",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6760,7 +6760,7 @@
   },
   {
     "id": "377",
-    "name": "Новозыбков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-10 Новозыбков",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6778,7 +6778,7 @@
   },
   {
     "id": "378",
-    "name": "Стародуб. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-11 Стародуб",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6796,7 +6796,7 @@
   },
   {
     "id": "379",
-    "name": "Трубчевск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-12 Трубчевск",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6814,7 +6814,7 @@
   },
   {
     "id": "380",
-    "name": "Дмитровск-Орловский (Дмитровск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-13 Дмитровск-Орловский (Дмитровск)",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6832,7 +6832,7 @@
   },
   {
     "id": "381",
-    "name": "Малоархангельск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-14 Малоархангельск",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6850,7 +6850,7 @@
   },
   {
     "id": "382",
-    "name": "Ливны. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-15 Ливны",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6868,7 +6868,7 @@
   },
   {
     "id": "383",
-    "name": "Райский (Спасское-Ивановское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-16 Райский (Спасское-Ивановское)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6886,7 +6886,7 @@
   },
   {
     "id": "384",
-    "name": "Ситная. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-17 Ситная",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6904,7 +6904,7 @@
   },
   {
     "id": "385",
-    "name": "Эртиль (Эртил). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-18 Эртиль (Эртил)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6922,7 +6922,7 @@
   },
   {
     "id": "386",
-    "name": "Туголуково. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-19 Туголуково",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6940,7 +6940,7 @@
   },
   {
     "id": "387",
-    "name": "Романовка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-20 Романовка",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6958,7 +6958,7 @@
   },
   {
     "id": "388",
-    "name": "Балашов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-21 Балашов",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6976,7 +6976,7 @@
   },
   {
     "id": "389",
-    "name": "Калининск (Баланда). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-22 Калининск (Баланда)",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -6994,7 +6994,7 @@
   },
   {
     "id": "390",
-    "name": "Саратов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 18-23 Саратов",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/18-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7012,7 +7012,7 @@
   },
   {
     "id": "391",
-    "name": "Радзынь-Подляски (Радин). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-1 Радзынь-Подляски (Радин)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7030,7 +7030,7 @@
   },
   {
     "id": "392",
-    "name": "Домачево. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-2 Домачево",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7048,7 +7048,7 @@
   },
   {
     "id": "393",
-    "name": "Лоев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-9 Лоев",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7066,7 +7066,7 @@
   },
   {
     "id": "394",
-    "name": "Городня. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-10 Городня",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7084,7 +7084,7 @@
   },
   {
     "id": "395",
-    "name": "Новгород-Северский (Новгород-Северск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-11 Новгород-Северский (Новгород-Северск)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7102,7 +7102,7 @@
   },
   {
     "id": "396",
-    "name": "Марчихина Буда. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-12 Марчихина Буда",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7120,7 +7120,7 @@
   },
   {
     "id": "397",
-    "name": "Льгов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-13 Льгов",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7138,7 +7138,7 @@
   },
   {
     "id": "398",
-    "name": "Курск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-14 Курск",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7156,7 +7156,7 @@
   },
   {
     "id": "399",
-    "name": "Щигры. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-15 Щигры",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7174,7 +7174,7 @@
   },
   {
     "id": "400",
-    "name": "Нижнедевицк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-16 Нижнедевицк",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7192,7 +7192,7 @@
   },
   {
     "id": "401",
-    "name": "Воронеж. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-17 Воронеж",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7210,7 +7210,7 @@
   },
   {
     "id": "402",
-    "name": "Анна (Анновка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-18 Анна (Анновка)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7228,7 +7228,7 @@
   },
   {
     "id": "403",
-    "name": "Верхний Карачан. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-19 Верхний Карачан",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7246,7 +7246,7 @@
   },
   {
     "id": "404",
-    "name": "Борисоглебск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-20 Борисоглебск",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7264,7 +7264,7 @@
   },
   {
     "id": "405",
-    "name": "Самойловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-21 Самойловка",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7282,7 +7282,7 @@
   },
   {
     "id": "406",
-    "name": "Жирновск (Жирное). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-22 Жирновск (Жирное)",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7300,7 +7300,7 @@
   },
   {
     "id": "407",
-    "name": "Красноармейск (Голый Карамыш). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 19-23 Красноармейск (Голый Карамыш)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/19-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7318,7 +7318,7 @@
   },
   {
     "id": "408",
-    "name": "Люблин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-1 Люблин",
     "size": "33 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7336,7 +7336,7 @@
   },
   {
     "id": "409",
-    "name": "Хелм (Холм). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-2 Хелм (Холм)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7354,7 +7354,7 @@
   },
   {
     "id": "410",
-    "name": "Ковель. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-3 Ковель",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7372,7 +7372,7 @@
   },
   {
     "id": "411",
-    "name": "Трояновка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-4 Трояновка",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7390,7 +7390,7 @@
   },
   {
     "id": "412",
-    "name": "Дубровица (Домбровица). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-5 Дубровица (Домбровица)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7408,7 +7408,7 @@
   },
   {
     "id": "413",
-    "name": "Перга. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-6 Перга",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7426,7 +7426,7 @@
   },
   {
     "id": "414",
-    "name": "Овруч. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-7 Овруч",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7444,7 +7444,7 @@
   },
   {
     "id": "415",
-    "name": "Чернобыль. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-8 Чернобыль",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7462,7 +7462,7 @@
   },
   {
     "id": "416",
-    "name": "Чернигов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-9 Чернигов",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7480,7 +7480,7 @@
   },
   {
     "id": "417",
-    "name": "Березна. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-10 Березна",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7498,7 +7498,7 @@
   },
   {
     "id": "418",
-    "name": "Конотоп. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-11 Конотоп",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7516,7 +7516,7 @@
   },
   {
     "id": "419",
-    "name": "Путивль. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-12 Путивль",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7534,7 +7534,7 @@
   },
   {
     "id": "420",
-    "name": "Суджа. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-13 Суджа",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7552,7 +7552,7 @@
   },
   {
     "id": "421",
-    "name": "Обоянь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-14 Обоянь",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7570,7 +7570,7 @@
   },
   {
     "id": "422",
-    "name": "Гущино. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-15 Гущино",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7588,7 +7588,7 @@
   },
   {
     "id": "423",
-    "name": "Старый Оскол. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-16 Старый Оскол",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7606,7 +7606,7 @@
   },
   {
     "id": "424",
-    "name": "Коротояк (Короткояк). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-17 Коротояк (Короткояк)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7624,7 +7624,7 @@
   },
   {
     "id": "425",
-    "name": "Новая Чигла. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-18 Новая Чигла",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7642,7 +7642,7 @@
   },
   {
     "id": "426",
-    "name": "Новохоперск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-19 Новохоперск",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7660,7 +7660,7 @@
   },
   {
     "id": "427",
-    "name": "Урюпинск (Урюпинская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-20 Урюпинск (Урюпинская)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7678,7 +7678,7 @@
   },
   {
     "id": "428",
-    "name": "Мачеха. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-21 Мачеха",
     "size": "39 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7696,7 +7696,7 @@
   },
   {
     "id": "429",
-    "name": "Красный Яр. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-22 Красный Яр",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7714,7 +7714,7 @@
   },
   {
     "id": "430",
-    "name": "Нижняя Добринка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 20-23 Нижняя Добринка",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/20-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7732,7 +7732,7 @@
   },
   {
     "id": "431",
-    "name": "Жулкевка (Пжолкевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-1 Жулкевка (Пжолкевка)",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7750,7 +7750,7 @@
   },
   {
     "id": "432",
-    "name": "Хрубешув (Грубешов). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-2 Хрубешув (Грубешов)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7768,7 +7768,7 @@
   },
   {
     "id": "433",
-    "name": "Владимир-Волынский. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-3 Владимир-Волынский",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7786,7 +7786,7 @@
   },
   {
     "id": "434",
-    "name": "Луцк. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-4 Луцк",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7804,7 +7804,7 @@
   },
   {
     "id": "435",
-    "name": "Александрия. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-5 Александрия",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7822,7 +7822,7 @@
   },
   {
     "id": "436",
-    "name": "Лопатичи (Лопатичская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-6 Лопатичи (Лопатичская)",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7840,7 +7840,7 @@
   },
   {
     "id": "437",
-    "name": "Коростень (Искорость). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-7 Коростень (Искорость)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7858,7 +7858,7 @@
   },
   {
     "id": "438",
-    "name": "Иванков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-8 Иванков",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7876,7 +7876,7 @@
   },
   {
     "id": "439",
-    "name": "Остер. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-9 Остер",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7894,7 +7894,7 @@
   },
   {
     "id": "440",
-    "name": "Нежин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-10 Нежин",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7912,7 +7912,7 @@
   },
   {
     "id": "441",
-    "name": "Гайворон. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-11 Гайворон",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7930,7 +7930,7 @@
   },
   {
     "id": "442",
-    "name": "Недригайлов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-12 Недригайлов",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7948,7 +7948,7 @@
   },
   {
     "id": "443",
-    "name": "Сумы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-13 Сумы",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7966,7 +7966,7 @@
   },
   {
     "id": "444",
-    "name": "Меловое. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-14 Меловое",
     "size": "31 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -7984,7 +7984,7 @@
   },
   {
     "id": "445",
-    "name": "Короча. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-15 Короча",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8002,7 +8002,7 @@
   },
   {
     "id": "446",
-    "name": "Новый Оскол. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-16 Новый Оскол",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8020,7 +8020,7 @@
   },
   {
     "id": "447",
-    "name": "Острогожск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-17 Острогожск",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8038,7 +8038,7 @@
   },
   {
     "id": "448",
-    "name": "Павловск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-18 Павловск",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8056,7 +8056,7 @@
   },
   {
     "id": "449",
-    "name": "Калач. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-19 Калач",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8074,7 +8074,7 @@
   },
   {
     "id": "450",
-    "name": "Алексеевская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-20 Алексеевская",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8092,7 +8092,7 @@
   },
   {
     "id": "451",
-    "name": "Раздоры (Раздорская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-21 Раздоры (Раздорская)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8110,7 +8110,7 @@
   },
   {
     "id": "452",
-    "name": "Даниловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-22 Даниловка",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8128,7 +8128,7 @@
   },
   {
     "id": "453",
-    "name": "Камышин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 21-23 Камышин",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/21-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8146,7 +8146,7 @@
   },
   {
     "id": "454",
-    "name": "Тарногруд (Тарногрод). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-1 Тарногруд (Тарногрод)",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8164,7 +8164,7 @@
   },
   {
     "id": "455",
-    "name": "Белз (Бельз). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-2 Белз (Бельз)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8182,7 +8182,7 @@
   },
   {
     "id": "456",
-    "name": "Журавники (Дружкополь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-3 Журавники (Дружкополь)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8200,7 +8200,7 @@
   },
   {
     "id": "457",
-    "name": "Дубно. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-4 Дубно",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8218,7 +8218,7 @@
   },
   {
     "id": "458",
-    "name": "Ровно. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-5 Ровно",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8236,7 +8236,7 @@
   },
   {
     "id": "459",
-    "name": "Новоград-Волынский (Новоградволынск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-6 Новоград-Волынский (Новоградволынск)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8254,7 +8254,7 @@
   },
   {
     "id": "460",
-    "name": "Радомышль (Радомысль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-7 Радомышль (Радомысль)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8272,7 +8272,7 @@
   },
   {
     "id": "461",
-    "name": "Гостомель (Гостомль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-8 Гостомель (Гостомль)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8290,7 +8290,7 @@
   },
   {
     "id": "462",
-    "name": "Киев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-9 Киев",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8308,7 +8308,7 @@
   },
   {
     "id": "463",
-    "name": "Прилуки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-10 Прилуки",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8326,7 +8326,7 @@
   },
   {
     "id": "464",
-    "name": "Лохвица. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-11 Лохвица",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8344,7 +8344,7 @@
   },
   {
     "id": "465",
-    "name": "Гадяч. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-12 Гадяч",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8362,7 +8362,7 @@
   },
   {
     "id": "466",
-    "name": "Ахтырка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-13 Ахтырка",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8380,7 +8380,7 @@
   },
   {
     "id": "467",
-    "name": "Золочев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-14 Золочев",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8398,7 +8398,7 @@
   },
   {
     "id": "468",
-    "name": "Белгород. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-15 Белгород",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8416,7 +8416,7 @@
   },
   {
     "id": "469",
-    "name": "Валуйки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-16 Валуйки",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8434,7 +8434,7 @@
   },
   {
     "id": "470",
-    "name": "Советское (Шелякино). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-17 Советское (Шелякино)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8452,7 +8452,7 @@
   },
   {
     "id": "471",
-    "name": "Богучар. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-18 Богучар",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8470,7 +8470,7 @@
   },
   {
     "id": "472",
-    "name": "Петропавловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-19 Петропавловка",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8488,7 +8488,7 @@
   },
   {
     "id": "473",
-    "name": "Слащевская (Слащовская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-20 Слащевская (Слащовская)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8506,7 +8506,7 @@
   },
   {
     "id": "474",
-    "name": "Арчединская (Арчадинская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-21 Арчединская (Арчадинская)",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8524,7 +8524,7 @@
   },
   {
     "id": "475",
-    "name": "Ольховка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-22 Ольховка",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8542,7 +8542,7 @@
   },
   {
     "id": "476",
-    "name": "Горный Балыклей (Балыклей). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 22-23 Горный Балыклей (Балыклей)",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/22-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8560,7 +8560,7 @@
   },
   {
     "id": "477",
-    "name": "Кременец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-4 Кременец",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8578,7 +8578,7 @@
   },
   {
     "id": "478",
-    "name": "Изяслав (Заслав). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-5 Изяслав (Заслав)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8596,7 +8596,7 @@
   },
   {
     "id": "479",
-    "name": "Мирополь (Новый Мирополь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-6 Мирополь (Новый Мирополь)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8614,7 +8614,7 @@
   },
   {
     "id": "480",
-    "name": "Житомир. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-7 Житомир",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8632,7 +8632,7 @@
   },
   {
     "id": "481",
-    "name": "Васильков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-8 Васильков",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8650,7 +8650,7 @@
   },
   {
     "id": "482",
-    "name": "Украинка (Триполье). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-9 Украинка (Триполье)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8668,7 +8668,7 @@
   },
   {
     "id": "483",
-    "name": "Яготин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-10 Яготин",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8686,7 +8686,7 @@
   },
   {
     "id": "484",
-    "name": "Лубны. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-11 Лубны",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8704,7 +8704,7 @@
   },
   {
     "id": "485",
-    "name": "Устивица. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-12 Устивица",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8722,7 +8722,7 @@
   },
   {
     "id": "486",
-    "name": "Опошня. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-13 Опошня",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8740,7 +8740,7 @@
   },
   {
     "id": "487",
-    "name": "Харьков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-14 Харьков",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8758,7 +8758,7 @@
   },
   {
     "id": "488",
-    "name": "Чугуев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-15 Чугуев",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8776,7 +8776,7 @@
   },
   {
     "id": "489",
-    "name": "Купянск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-16 Купянск",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8794,7 +8794,7 @@
   },
   {
     "id": "490",
-    "name": "Белолуцк (Белолуцкая). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-17 Белолуцк (Белолуцкая)",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8812,7 +8812,7 @@
   },
   {
     "id": "491",
-    "name": "Кантемировка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-18 Кантемировка",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8830,7 +8830,7 @@
   },
   {
     "id": "492",
-    "name": "Мешковская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-19 Мешковская",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8848,7 +8848,7 @@
   },
   {
     "id": "493",
-    "name": "Еланская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-20 Еланская",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8866,7 +8866,7 @@
   },
   {
     "id": "494",
-    "name": "Клетская (Клецкая). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-21 Клетская (Клецкая)",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8884,7 +8884,7 @@
   },
   {
     "id": "495",
-    "name": "Иловля (Иловлинская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-22 Иловля (Иловлинская)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8902,7 +8902,7 @@
   },
   {
     "id": "496",
-    "name": "Дубовка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 23-23 Дубовка",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/23-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8920,7 +8920,7 @@
   },
   {
     "id": "497",
-    "name": "Тернополь (Тарнополь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-4 Тернополь (Тарнополь)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8938,7 +8938,7 @@
   },
   {
     "id": "498",
-    "name": "Хмельницкий (Проскуров). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-5 Хмельницкий (Проскуров)",
     "size": "31 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8956,7 +8956,7 @@
   },
   {
     "id": "499",
-    "name": "Хмельник. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-6 Хмельник",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8974,7 +8974,7 @@
   },
   {
     "id": "500",
-    "name": "Старая Прилука (Прилуки). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-7 Старая Прилука (Прилуки)",
     "size": "30 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -8992,7 +8992,7 @@
   },
   {
     "id": "501",
-    "name": "Белая Церковь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-8 Белая Церковь",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9010,7 +9010,7 @@
   },
   {
     "id": "502",
-    "name": "Богуслав. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-9 Богуслав",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9028,7 +9028,7 @@
   },
   {
     "id": "503",
-    "name": "Черкассы (Черкасы). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-10 Черкассы (Черкасы)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9046,7 +9046,7 @@
   },
   {
     "id": "504",
-    "name": "Горошино (Горошин). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-11 Горошино (Горошин)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9064,7 +9064,7 @@
   },
   {
     "id": "505",
-    "name": "Решетиловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-12 Решетиловка",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9082,7 +9082,7 @@
   },
   {
     "id": "506",
-    "name": "Полтава. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-13 Полтава",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9100,7 +9100,7 @@
   },
   {
     "id": "507",
-    "name": "Красноград (Константиноград). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-14 Красноград (Константиноград)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9118,7 +9118,7 @@
   },
   {
     "id": "508",
-    "name": "Изюм. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-15 Изюм",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9136,7 +9136,7 @@
   },
   {
     "id": "509",
-    "name": "Сватово (Ново-Екатеринославль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-16 Сватово (Ново-Екатеринославль)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9154,7 +9154,7 @@
   },
   {
     "id": "510",
-    "name": "Старобельск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-17 Старобельск",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9172,7 +9172,7 @@
   },
   {
     "id": "511",
-    "name": "Беловодск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-18 Беловодск",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9190,7 +9190,7 @@
   },
   {
     "id": "512",
-    "name": "Кашары (Верхне-Ольховая). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-19 Кашары (Верхне-Ольховая)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9208,7 +9208,7 @@
   },
   {
     "id": "513",
-    "name": "Чистяково (Чистяковка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-20 Чистяково (Чистяковка)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9226,7 +9226,7 @@
   },
   {
     "id": "514",
-    "name": "Добринка (Добрая). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-21 Добринка (Добрая)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9244,7 +9244,7 @@
   },
   {
     "id": "515",
-    "name": "Калач-на-Дону (Калач). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-22 Калач-на-Дону (Калач)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9262,7 +9262,7 @@
   },
   {
     "id": "516",
-    "name": "Волгоград (Царицын). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 24-23 Волгоград (Царицын)",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/24-23.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9280,7 +9280,7 @@
   },
   {
     "id": "517",
-    "name": "Чортков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-4 Чортков",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9298,7 +9298,7 @@
   },
   {
     "id": "518",
-    "name": "Ярмолинцы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-5 Ярмолинцы",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9316,7 +9316,7 @@
   },
   {
     "id": "519",
-    "name": "Бар. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-6 Бар",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9334,7 +9334,7 @@
   },
   {
     "id": "520",
-    "name": "Винница. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-7 Винница",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9352,7 +9352,7 @@
   },
   {
     "id": "521",
-    "name": "Монастырище. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-8 Монастырище",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9370,7 +9370,7 @@
   },
   {
     "id": "522",
-    "name": "Звенигородка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-9 Звенигородка",
     "size": "29 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9388,7 +9388,7 @@
   },
   {
     "id": "523",
-    "name": "Смела (Смело). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-10 Смела (Смело)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9406,7 +9406,7 @@
   },
   {
     "id": "524",
-    "name": "Чигирин. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-11 Чигирин",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9424,7 +9424,7 @@
   },
   {
     "id": "525",
-    "name": "Кременчуг. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-12 Кременчуг",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9442,7 +9442,7 @@
   },
   {
     "id": "526",
-    "name": "Царичанка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-13 Царичанка",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9460,7 +9460,7 @@
   },
   {
     "id": "527",
-    "name": "Артельное. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-14 Артельное",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9478,7 +9478,7 @@
   },
   {
     "id": "528",
-    "name": "Александровка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-15 Александровка",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9496,7 +9496,7 @@
   },
   {
     "id": "529",
-    "name": "Славянск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-16 Славянск",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9514,7 +9514,7 @@
   },
   {
     "id": "530",
-    "name": "Славяносербск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-17 Славяносербск",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9532,7 +9532,7 @@
   },
   {
     "id": "531",
-    "name": "Станично-Луганское (Луганская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-18 Станично-Луганское (Луганская)",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9550,7 +9550,7 @@
   },
   {
     "id": "532",
-    "name": "Большинка (Большинская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-19 Большинка (Большинская)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9568,7 +9568,7 @@
   },
   {
     "id": "533",
-    "name": "Сулинский (Лукичев). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-20 Сулинский (Лукичев)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9586,7 +9586,7 @@
   },
   {
     "id": "534",
-    "name": "Суворовская (Кабылянская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-21 Суворовская (Кабылянская)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9604,7 +9604,7 @@
   },
   {
     "id": "535",
-    "name": "Громославка (Курнаков). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 25-22 Громославка (Курнаков)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/25-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9622,7 +9622,7 @@
   },
   {
     "id": "536",
-    "name": "Устье. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-4 Устье",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9640,7 +9640,7 @@
   },
   {
     "id": "537",
-    "name": "Каменец-Подольский. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-5 Каменец-Подольский",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9658,7 +9658,7 @@
   },
   {
     "id": "538",
-    "name": "Могилев-Подольский (Могилев). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-6 Могилев-Подольский (Могилев)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9676,7 +9676,7 @@
   },
   {
     "id": "539",
-    "name": "Брацлав. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-7 Брацлав",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9694,7 +9694,7 @@
   },
   {
     "id": "540",
-    "name": "Умань. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-8 Умань",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9712,7 +9712,7 @@
   },
   {
     "id": "541",
-    "name": "Новоархангельск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-9 Новоархангельск",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9730,7 +9730,7 @@
   },
   {
     "id": "542",
-    "name": "Кировоград (Елисаветград). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-10 Кировоград (Елисаветград)",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9748,7 +9748,7 @@
   },
   {
     "id": "543",
-    "name": "Александрия. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-11 Александрия",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9766,7 +9766,7 @@
   },
   {
     "id": "544",
-    "name": "Владимировка (Соколовка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-12 Владимировка (Соколовка)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9784,7 +9784,7 @@
   },
   {
     "id": "545",
-    "name": "Днепропетровск (Екатеринославль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-13 Днепропетровск (Екатеринославль)",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9802,7 +9802,7 @@
   },
   {
     "id": "546",
-    "name": "Павлоград. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-14 Павлоград",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9820,7 +9820,7 @@
   },
   {
     "id": "547",
-    "name": "Троицкое. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-15 Троицкое",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9838,7 +9838,7 @@
   },
   {
     "id": "548",
-    "name": "Артемовск (Бахмут). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-16 Артемовск (Бахмут)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9856,7 +9856,7 @@
   },
   {
     "id": "549",
-    "name": "Ивановка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-17 Ивановка",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9874,7 +9874,7 @@
   },
   {
     "id": "550",
-    "name": "Краснодон (Таловой). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-18 Краснодон (Таловой)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9892,7 +9892,7 @@
   },
   {
     "id": "551",
-    "name": "Белая Калитва (Усть-Белокалитвенская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-19 Белая Калитва (Усть-Белокалитвенская)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9910,7 +9910,7 @@
   },
   {
     "id": "552",
-    "name": "Кухтачев (Куфтачев). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-20 Кухтачев (Куфтачев)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9928,7 +9928,7 @@
   },
   {
     "id": "553",
-    "name": "Верхне-Куроямская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-21 Верхне-Куроямская",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9946,7 +9946,7 @@
   },
   {
     "id": "554",
-    "name": "Антонов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 26-22 Антонов",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/26-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9964,7 +9964,7 @@
   },
   {
     "id": "555",
-    "name": "Диновцы (Динауцы). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-4 Диновцы (Динауцы)",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -9982,7 +9982,7 @@
   },
   {
     "id": "556",
-    "name": "Липкань (Липканы). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-5 Липкань (Липканы)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10000,7 +10000,7 @@
   },
   {
     "id": "557",
-    "name": "Ямполь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-6 Ямполь",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10018,7 +10018,7 @@
   },
   {
     "id": "558",
-    "name": "Каменка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-7 Каменка",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10036,7 +10036,7 @@
   },
   {
     "id": "559",
-    "name": "Балта. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-8 Балта",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10054,7 +10054,7 @@
   },
   {
     "id": "560",
-    "name": "Первомайск (Ольвиополь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-9 Первомайск (Ольвиополь)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10072,7 +10072,7 @@
   },
   {
     "id": "561",
-    "name": "Бобринец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-10 Бобринец",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10090,7 +10090,7 @@
   },
   {
     "id": "562",
-    "name": "Валовое (Софиевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-11 Валовое (Софиевка)",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10108,7 +10108,7 @@
   },
   {
     "id": "563",
-    "name": "Кривой Рог. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-12 Кривой Рог",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10126,7 +10126,7 @@
   },
   {
     "id": "564",
-    "name": "Запорожье (Вознесенское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-13 Запорожье (Вознесенское)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10144,7 +10144,7 @@
   },
   {
     "id": "565",
-    "name": "Новониколаевка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-14 Новониколаевка",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10162,7 +10162,7 @@
   },
   {
     "id": "566",
-    "name": "Новопавловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-15 Новопавловка",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10180,7 +10180,7 @@
   },
   {
     "id": "567",
-    "name": "Новомихайловка (Михайловка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-16 Новомихайловка (Михайловка)",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10198,7 +10198,7 @@
   },
   {
     "id": "568",
-    "name": "Артемовка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-17 Артемовка",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10216,7 +10216,7 @@
   },
   {
     "id": "569",
-    "name": "Бирюково (Петровская Кундрючья). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-18 Бирюково (Петровская Кундрючья)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10234,7 +10234,7 @@
   },
   {
     "id": "570",
-    "name": "Кочетовская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-19 Кочетовская",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10252,7 +10252,7 @@
   },
   {
     "id": "571",
-    "name": "Николаевская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-20 Николаевская",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10270,7 +10270,7 @@
   },
   {
     "id": "572",
-    "name": "Хорошевская (Цымлянская). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-21 Хорошевская (Цымлянская)",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10288,7 +10288,7 @@
   },
   {
     "id": "573",
-    "name": "Гуреев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 27-22 Гуреев",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/27-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10306,7 +10306,7 @@
   },
   {
     "id": "574",
-    "name": "Болотино. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-5 Болотино",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10324,7 +10324,7 @@
   },
   {
     "id": "575",
-    "name": "Бельцы. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-6 Бельцы",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10342,7 +10342,7 @@
   },
   {
     "id": "576",
-    "name": "Рыбница. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-7 Рыбница",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10360,7 +10360,7 @@
   },
   {
     "id": "577",
-    "name": "Ананьев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-8 Ананьев",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10378,7 +10378,7 @@
   },
   {
     "id": "578",
-    "name": "Василевка (Васильевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-9 Василевка (Васильевка)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10396,7 +10396,7 @@
   },
   {
     "id": "579",
-    "name": "Еланец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-10 Еланец",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10414,7 +10414,7 @@
   },
   {
     "id": "580",
-    "name": "Новый Буг. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-11 Новый Буг",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10432,7 +10432,7 @@
   },
   {
     "id": "581",
-    "name": "Апостолово (Вшивое). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-12 Апостолово (Вшивое)",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10450,7 +10450,7 @@
   },
   {
     "id": "582",
-    "name": "Никополь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-13 Никополь",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10468,7 +10468,7 @@
   },
   {
     "id": "583",
-    "name": "Орехов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-14 Орехов",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10486,7 +10486,7 @@
   },
   {
     "id": "584",
-    "name": "Куйбышево (Цареконстантиновка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-15 Куйбышево (Цареконстантиновка)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10504,7 +10504,7 @@
   },
   {
     "id": "585",
-    "name": "Николаевка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-16 Николаевка",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10522,7 +10522,7 @@
   },
   {
     "id": "586",
-    "name": "Таганрог. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-17 Таганрог",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10540,7 +10540,7 @@
   },
   {
     "id": "587",
-    "name": "Ростов-на-Дону (Ростов и Нахичевань). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-18 Ростов-на-Дону (Ростов и Нахичевань)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10558,7 +10558,7 @@
   },
   {
     "id": "588",
-    "name": "Багаевская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-19 Багаевская",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10576,7 +10576,7 @@
   },
   {
     "id": "589",
-    "name": "Большая Мартыновка (Мартыновка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-20 Большая Мартыновка (Мартыновка)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10594,7 +10594,7 @@
   },
   {
     "id": "590",
-    "name": "Коньков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-21 Коньков",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10612,7 +10612,7 @@
   },
   {
     "id": "591",
-    "name": "Денисов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 28-22 Денисов",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/28-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10630,7 +10630,7 @@
   },
   {
     "id": "592",
-    "name": "Скуляны. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-6 Скуляны",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10648,7 +10648,7 @@
   },
   {
     "id": "593",
-    "name": "Кишинев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-7 Кишинев",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10666,7 +10666,7 @@
   },
   {
     "id": "594",
-    "name": "Фрунзовка (Захарьевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-8 Фрунзовка (Захарьевка)",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10684,7 +10684,7 @@
   },
   {
     "id": "595",
-    "name": "Мостовое (Мостовое-Ляхово). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-9 Мостовое (Мостовое-Ляхово)",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10702,7 +10702,7 @@
   },
   {
     "id": "596",
-    "name": "Николаев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-10 Николаев",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10720,7 +10720,7 @@
   },
   {
     "id": "597",
-    "name": "Березнеговатое (Березнеговатый). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-11 Березнеговатое (Березнеговатый)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10738,7 +10738,7 @@
   },
   {
     "id": "598",
-    "name": "Мыловое. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-12 Мыловое",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10756,7 +10756,7 @@
   },
   {
     "id": "599",
-    "name": "Великая Белозерка (Большая Белозерка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-13 Великая Белозерка (Большая Белозерка)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10774,7 +10774,7 @@
   },
   {
     "id": "600",
-    "name": "Токмак (Большой Токмак). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-14 Токмак (Большой Токмак)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10792,7 +10792,7 @@
   },
   {
     "id": "601",
-    "name": "Андреевка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-15 Андреевка",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10810,7 +10810,7 @@
   },
   {
     "id": "602",
-    "name": "Мариуполь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-16 Мариуполь",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-16.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10828,7 +10828,7 @@
   },
   {
     "id": "603",
-    "name": "Шабельское. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-17 Шабельское",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-17.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10846,7 +10846,7 @@
   },
   {
     "id": "604",
-    "name": "Кагальник (Кагальницкое). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-18 Кагальник (Кагальницкое)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10864,7 +10864,7 @@
   },
   {
     "id": "605",
-    "name": "Мечетинская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-19 Мечетинская",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10882,7 +10882,7 @@
   },
   {
     "id": "606",
-    "name": "Пролетарск (Карычеплацкая). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-20 Пролетарск (Карычеплацкая)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10900,7 +10900,7 @@
   },
   {
     "id": "607",
-    "name": "Ельмут. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-21 Ельмут",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-21.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10918,7 +10918,7 @@
   },
   {
     "id": "608",
-    "name": "Денисовский (Денисова). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 29-22 Денисовский (Денисова)",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/29-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10936,7 +10936,7 @@
   },
   {
     "id": "609",
-    "name": "Бужор (Бужора). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-6 Бужор (Бужора)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10954,7 +10954,7 @@
   },
   {
     "id": "610",
-    "name": "Гура-Галбеней (Гурагалбина). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-7 Гура-Галбеней (Гурагалбина)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10972,7 +10972,7 @@
   },
   {
     "id": "611",
-    "name": "Тигина (Бендеры). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-8 Тигина (Бендеры)",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -10990,7 +10990,7 @@
   },
   {
     "id": "612",
-    "name": "Севериновка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-9 Севериновка",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11008,7 +11008,7 @@
   },
   {
     "id": "613",
-    "name": "Очаков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-10 Очаков",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11026,7 +11026,7 @@
   },
   {
     "id": "614",
-    "name": "Херсон. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-11 Херсон",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11044,7 +11044,7 @@
   },
   {
     "id": "615",
-    "name": "Берислав (Бериславль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-12 Берислав (Бериславль)",
     "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11062,7 +11062,7 @@
   },
   {
     "id": "616",
-    "name": "Фрунзе (Агайман). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-13 Фрунзе (Агайман)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11080,7 +11080,7 @@
   },
   {
     "id": "617",
-    "name": "Мелитополь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-14 Мелитополь",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11098,7 +11098,7 @@
   },
   {
     "id": "618",
-    "name": "Бердянск. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-15 Бердянск",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11116,7 +11116,7 @@
   },
   {
     "id": "619",
-    "name": "Речка Ея. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-18 Речка Ея",
     "size": "0 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-18.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11134,7 +11134,7 @@
   },
   {
     "id": "620",
-    "name": "Разсыпной. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-19 Разсыпной",
     "size": "0 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-19.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11152,7 +11152,7 @@
   },
   {
     "id": "621",
-    "name": "Леонов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-20 Леонов",
     "size": "0 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-20.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11170,7 +11170,7 @@
   },
   {
     "id": "622",
-    "name": "Крутянское (Старое соленое). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 30-22 Крутянское (Старое соленое)",
     "size": "0 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/30-22.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11188,7 +11188,7 @@
   },
   {
     "id": "623",
-    "name": "Кантемир (Кантя). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-6 Кантемир (Кантя)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11206,7 +11206,7 @@
   },
   {
     "id": "624",
-    "name": "Комрат. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-7 Комрат",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11224,7 +11224,7 @@
   },
   {
     "id": "625",
-    "name": "Николаевка-Новороссийская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-8 Николаевка-Новороссийская",
     "size": "17 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11242,7 +11242,7 @@
   },
   {
     "id": "626",
-    "name": "Одесса. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-9 Одесса",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11260,7 +11260,7 @@
   },
   {
     "id": "627",
-    "name": "Покровка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-10 Покровка",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-10.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11278,7 +11278,7 @@
   },
   {
     "id": "628",
-    "name": "Красное (Второе-Приморское). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-11 Красное (Второе-Приморское)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11296,7 +11296,7 @@
   },
   {
     "id": "629",
-    "name": "Перекоп. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-12 Перекоп",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11314,7 +11314,7 @@
   },
   {
     "id": "630",
-    "name": "Геническ. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-13 Геническ",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11332,7 +11332,7 @@
   },
   {
     "id": "631",
-    "name": "Кирилловка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 31-14 Кирилловка",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/31-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11350,7 +11350,7 @@
   },
   {
     "id": "632",
-    "name": "Кагул. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-6 Кагул",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11368,7 +11368,7 @@
   },
   {
     "id": "633",
-    "name": "Болград. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-7 Болград",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11386,7 +11386,7 @@
   },
   {
     "id": "634",
-    "name": "Татарбунары (Татар-Бунар). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-8 Татарбунары (Татар-Бунар)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11404,7 +11404,7 @@
   },
   {
     "id": "635",
-    "name": "Каябея. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-9 Каябея",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-9.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11422,7 +11422,7 @@
   },
   {
     "id": "636",
-    "name": "Межводное (Джарылгач). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-11 Межводное (Джарылгач)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11440,7 +11440,7 @@
   },
   {
     "id": "637",
-    "name": "Кумово (Кызыл-Бай). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-12 Кумово (Кызыл-Бай)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11458,7 +11458,7 @@
   },
   {
     "id": "638",
-    "name": "Столбовое (Мечетлы Кытай). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-13 Столбовое (Мечетлы Кытай)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11476,7 +11476,7 @@
   },
   {
     "id": "639",
-    "name": "Мысовое (Казантип). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-14 Мысовое (Казантип)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11494,7 +11494,7 @@
   },
   {
     "id": "640",
-    "name": "Курортное (Мама). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 32-15 Курортное (Мама)",
     "size": "2 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/32-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11512,7 +11512,7 @@
   },
   {
     "id": "641",
-    "name": "Рени. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-6 Рени",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11530,7 +11530,7 @@
   },
   {
     "id": "642",
-    "name": "Измаил (Тучков). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-7 Измаил (Тучков)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11548,7 +11548,7 @@
   },
   {
     "id": "643",
-    "name": "Вилково (Вилков). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-8 Вилково (Вилков)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11566,7 +11566,7 @@
   },
   {
     "id": "644",
-    "name": "Оленевка (Караджа). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-11 Оленевка (Караджа)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-11.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11584,7 +11584,7 @@
   },
   {
     "id": "645",
-    "name": "Евпатория. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-12 Евпатория",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11602,7 +11602,7 @@
   },
   {
     "id": "646",
-    "name": "Белогорск (Карасубазар). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-13 Белогорск (Карасубазар)",
     "size": "7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11620,7 +11620,7 @@
   },
   {
     "id": "647",
-    "name": "Феодосия. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-14 Феодосия",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11638,7 +11638,7 @@
   },
   {
     "id": "648",
-    "name": "Керчь (Керчь-Ениколь). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 33-15 Керчь (Керчь-Ениколь)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/33-15.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11656,7 +11656,7 @@
   },
   {
     "id": "649",
-    "name": "Бейбуджак. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 34-7 Бейбуджак",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/34-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11674,7 +11674,7 @@
   },
   {
     "id": "650",
-    "name": "Сфынту-Георге (Гидерлас). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 34-8 Сфынту-Георге (Гидерлас)",
     "size": "4 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/34-8.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11692,7 +11692,7 @@
   },
   {
     "id": "651",
-    "name": "Севастополь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 34-12 Севастополь",
     "size": "12 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/34-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11710,7 +11710,7 @@
   },
   {
     "id": "652",
-    "name": "Симферополь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 34-13 Симферополь",
     "size": "16 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/34-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11728,7 +11728,7 @@
   },
   {
     "id": "653",
-    "name": "Щебетовка (Верхний Отуз). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 34-14 Щебетовка (Верхний Отуз)",
     "size": "1 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/34-14.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11746,7 +11746,7 @@
   },
   {
     "id": "654",
-    "name": "Орлиное (Байдар). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 35-12 Орлиное (Байдар)",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/35-12.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11764,7 +11764,7 @@
   },
   {
     "id": "655",
-    "name": "Ялта. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 35-13 Ялта",
     "size": "3 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/35-13.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11782,7 +11782,7 @@
   },
   {
     "id": "656",
-    "name": "Лист 5-2 Кингисепп (Аренсбург). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-2 Кингисепп (Аренсбург)",
     "size": "13 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11800,7 +11800,7 @@
   },
   {
     "id": "657",
-    "name": "Лист 5-3 Виртсу (Вердер). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-3 Виртсу (Вердер)",
     "size": "14 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11818,7 +11818,7 @@
   },
   {
     "id": "658",
-    "name": "Лист 5-4 Пярну (Пернов). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 5-4 Пярну (Пернов)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/5-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11836,7 +11836,7 @@
   },
   {
     "id": "659",
-    "name": "Лист 6-2 Сяэре (Церель). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-2 Сяэре (Церель)",
     "size": "8 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11854,7 +11854,7 @@
   },
   {
     "id": "660",
-    "name": "Лист 6-3 Роотсикюла (Рятзикюля). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-3 Роотсикюла (Рятзикюля)",
     "size": "5 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11872,7 +11872,7 @@
   },
   {
     "id": "661",
-    "name": "Лист 6-4 Айнажи (Хайнаш). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-4 Айнажи (Хайнаш)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11890,7 +11890,7 @@
   },
   {
     "id": "662",
-    "name": "Лист 6-5 Наукшени (Наукшен). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 6-5 Наукшени (Наукшен)",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/6-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11908,7 +11908,7 @@
   },
   {
     "id": "663",
-    "name": "Лист 7-3 Мерсрагс (Маркграфен). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-3 Мерсрагс (Маркграфен)",
     "size": "6 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11926,7 +11926,7 @@
   },
   {
     "id": "664",
-    "name": "Лист 7-4 Лимбажи (Лемзаль). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-4 Лимбажи (Лемзаль)",
     "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11944,7 +11944,7 @@
   },
   {
     "id": "665",
-    "name": "Лист 7-5 Валга (Валк). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 7-5 Валга (Валк)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/7-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11962,7 +11962,7 @@
   },
   {
     "id": "666",
-    "name": "Лист 8-4 Сигулда (Галес). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-4 Сигулда (Галес)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11980,7 +11980,7 @@
   },
   {
     "id": "667",
-    "name": "Лист 8-5 Цесвайне (Каулин). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-5 Цесвайне (Каулин)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -11998,7 +11998,7 @@
   },
   {
     "id": "668",
-    "name": "Лист 8-6 Балви (Боловск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 8-6 Балви (Боловск)",
     "size": "22 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/8-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12016,7 +12016,7 @@
   },
   {
     "id": "669",
-    "name": "Лист 9-4 Яунелгава (Фридрихштат). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 9-4 Яунелгава (Фридрихштат)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/9-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12034,7 +12034,7 @@
   },
   {
     "id": "670",
-    "name": "Лист 10-1 Салантай (Саланты). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-1 Салантай (Саланты)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12052,7 +12052,7 @@
   },
   {
     "id": "671",
-    "name": "Лист 10-2 Тельшяй (Тельше). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-2 Тельшяй (Тельше)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12070,7 +12070,7 @@
   },
   {
     "id": "672",
-    "name": "Лист 10-3 Шяуляй (Шавли). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-3 Шяуляй (Шавли)",
     "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12088,7 +12088,7 @@
   },
   {
     "id": "673",
-    "name": "Лист 10-4 Вабальнинкас (Вобольники). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-4 Вабальнинкас (Вобольники)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12106,7 +12106,7 @@
   },
   {
     "id": "674",
-    "name": "Лист 10-5 Ливаны (Ливенгоф). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-5 Ливаны (Ливенгоф)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12124,7 +12124,7 @@
   },
   {
     "id": "675",
-    "name": "Лист 10-6 Разнас (Озеро Разно). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 10-6 Разнас (Озеро Разно)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/10-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12142,7 +12142,7 @@
   },
   {
     "id": "676",
-    "name": "Лист 11-1 Шилуте (Верден). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-1 Шилуте (Верден)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12160,7 +12160,7 @@
   },
   {
     "id": "677",
-    "name": "Лист 11-2 Жальпяй (Лидовяны). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-2 Жальпяй (Лидовяны)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12178,7 +12178,7 @@
   },
   {
     "id": "678",
-    "name": "Лист 11-3 Паневежис (Поневеж). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-3 Паневежис (Поневеж)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12196,7 +12196,7 @@
   },
   {
     "id": "679",
-    "name": "Лист 11-4 Рагува (Рогов). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-4 Рагува (Рогов)",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12214,7 +12214,7 @@
   },
   {
     "id": "680",
-    "name": "Лист 11-5 Даугавпилс (Двинск). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-5 Даугавпилс (Двинск)",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12232,7 +12232,7 @@
   },
   {
     "id": "681",
-    "name": "Лист 11-6 Краслава (Краславка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 11-6 Краслава (Краславка)",
     "size": "25 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/11-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12250,7 +12250,7 @@
   },
   {
     "id": "682",
-    "name": "Лист 12-3 Каунас (Ковна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-3 Каунас (Ковна)",
     "size": "18 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12268,7 +12268,7 @@
   },
   {
     "id": "683",
-    "name": "Лист 12-4 Жялва (Позельви). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-4 Жялва (Позельви)",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12286,7 +12286,7 @@
   },
   {
     "id": "684",
-    "name": "Лист 12-5 Швенченис (Свенцяны). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-5 Швенченис (Свенцяны)",
     "size": "27 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12304,7 +12304,7 @@
   },
   {
     "id": "685",
-    "name": "Лист 12-6 Шарковщина (Шарковщизна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 12-6 Шарковщина (Шарковщизна)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/12-6.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12322,7 +12322,7 @@
   },
   {
     "id": "686",
-    "name": "Лист 13-1 Черняховск (Инстербург). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-1 Черняховск (Инстербург)",
     "size": "9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12340,7 +12340,7 @@
   },
   {
     "id": "687",
-    "name": "Лист 13-2 Нестеров (Сталлупенен). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-2 Нестеров (Сталлупенен)",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12358,7 +12358,7 @@
   },
   {
     "id": "688",
-    "name": "Лист 13-5 Свирь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-5 Свирь",
     "size": "24 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-5.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12376,7 +12376,7 @@
   },
   {
     "id": "689",
-    "name": "Лист 13-7 Лепель. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 13-7 Лепель",
     "size": "26 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/13-7.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12394,7 +12394,7 @@
   },
   {
     "id": "690",
-    "name": "Лист 14-1 Выдмины (Видминнен). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-1 Выдмины (Видминнен)",
     "size": "11 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-1.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12412,7 +12412,7 @@
   },
   {
     "id": "691",
-    "name": "Лист 14-2 Сувалки. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-2 Сувалки",
     "size": "28 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-2.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12430,7 +12430,7 @@
   },
   {
     "id": "692",
-    "name": "Лист 14-3 Нямунайтис (Немонойце). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-3 Нямунайтис (Немонойце)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-3.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12448,7 +12448,7 @@
   },
   {
     "id": "693",
-    "name": "Лист 14-4 Бенякони (Бинякони). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-4 Бенякони (Бинякони)",
     "size": "21 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-4.zip",
     "category": "Листы трехверстовки Шуберта",
@@ -12466,7 +12466,7 @@
   },
   {
     "id": "694",
-    "name": "Лист 14-5 Ошмяны (Ошмяна). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "name": "3хВ 14-5 Ошмяны (Ошмяна)",
     "size": "23 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3xverst/14-5.zip",
     "category": "Листы трехверстовки Шуберта",
