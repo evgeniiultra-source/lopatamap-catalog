@@ -10366,5 +10366,365 @@
         30.327309
       ]
     ]
+  },
+  {
+    "id": "578",
+    "name": "Василевка (Васильевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "20 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-9.jpg",
+    "bounds": [
+      [
+        47.49744,
+        30.327309
+      ],
+      [
+        47.832077,
+        31.111303
+      ]
+    ]
+  },
+  {
+    "id": "579",
+    "name": "Еланец. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "12 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-10.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-10.jpg",
+    "bounds": [
+      [
+        47.474167,
+        31.327309
+      ],
+      [
+        47.857098,
+        31.993975
+      ]
+    ]
+  },
+  {
+    "id": "580",
+    "name": "Новый Буг. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "14 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-11.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-11.jpg",
+    "bounds": [
+      [
+        47.468418,
+        32.306873
+      ],
+      [
+        47.865002,
+        32.993977
+      ]
+    ]
+  },
+  {
+    "id": "581",
+    "name": "Апостолово (Вшивое). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "12 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-12.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-12.jpg",
+    "bounds": [
+      [
+        47.482159,
+        33.278553
+      ],
+      [
+        47.831532,
+        33.993977
+      ]
+    ]
+  },
+  {
+    "id": "582",
+    "name": "Никополь. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "22 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-13.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-13.jpg",
+    "bounds": [
+      [
+        47.423985,
+        34.327309
+      ],
+      [
+        47.809219,
+        35.201546
+      ]
+    ]
+  },
+  {
+    "id": "583",
+    "name": "Орехов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "20 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-14.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-14.jpg",
+    "bounds": [
+      [
+        47.333332,
+        35.327309
+      ],
+      [
+        47.666668,
+        35.993977
+      ]
+    ]
+  },
+  {
+    "id": "584",
+    "name": "Куйбышево (Цареконстантиновка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "20 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-15.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-15.jpg",
+    "bounds": [
+      [
+        47.333332,
+        36.327309
+      ],
+      [
+        47.666668,
+        36.993977
+      ]
+    ]
+  },
+  {
+    "id": "585",
+    "name": "Николаевка. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "18 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-16.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-16.jpg",
+    "bounds": [
+      [
+        47.333332,
+        37.327309
+      ],
+      [
+        47.666668,
+        37.993977
+      ]
+    ]
+  },
+  {
+    "id": "586",
+    "name": "Таганрог. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "8 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-17.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-17.jpg",
+    "bounds": [
+      [
+        47.222279,
+        38.327309
+      ],
+      [
+        47.570694,
+        38.993977
+      ]
+    ]
+  },
+  {
+    "id": "587",
+    "name": "Ростов-на-Дону (Ростов и Нахичевань). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "16 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-18.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-18.jpg",
+    "bounds": [
+      [
+        47.075809,
+        39.327309
+      ],
+      [
+        47.448128,
+        40.093796
+      ]
+    ]
+  },
+  {
+    "id": "588",
+    "name": "Багаевская. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "8 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-19.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-19.jpg",
+    "bounds": [
+      [
+        47.0,
+        40.16795
+      ],
+      [
+        47.385761,
+        40.993977
+      ]
+    ]
+  },
+  {
+    "id": "589",
+    "name": "Большая Мартыновка (Мартыновка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "5 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-20.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-20.jpg",
+    "bounds": [
+      [
+        47.0,
+        41.327309
+      ],
+      [
+        47.333332,
+        41.993977
+      ]
+    ]
+  },
+  {
+    "id": "590",
+    "name": "Коньков. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "1 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-21.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-21.jpg",
+    "bounds": [
+      [
+        46.781929,
+        42.118156
+      ],
+      [
+        47.198723,
+        42.660641
+      ]
+    ]
+  },
+  {
+    "id": "591",
+    "name": "Денисов. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "1 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/28-22.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28-22.jpg",
+    "bounds": [
+      [
+        46.666668,
+        42.993977
+      ],
+      [
+        47.0,
+        43.660641
+      ]
+    ]
+  },
+  {
+    "id": "592",
+    "name": "Скуляны. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "18 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-6.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-6.jpg",
+    "bounds": [
+      [
+        47.0,
+        27.660641
+      ],
+      [
+        47.333332,
+        28.327309
+      ]
+    ]
+  },
+  {
+    "id": "593",
+    "name": "Кишинев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "26 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-7.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-7.jpg",
+    "bounds": [
+      [
+        47.0,
+        28.660641
+      ],
+      [
+        47.333332,
+        29.327309
+      ]
+    ]
+  },
+  {
+    "id": "594",
+    "name": "Фрунзовка (Захарьевка). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "17 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-8.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-8.jpg",
+    "bounds": [
+      [
+        47.0,
+        29.660641
+      ],
+      [
+        47.333332,
+        30.327309
+      ]
+    ]
+  },
+  {
+    "id": "595",
+    "name": "Мостовое (Мостовое-Ляхово). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "17 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-9.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-9.jpg",
+    "bounds": [
+      [
+        47.0,
+        30.327309
+      ],
+      [
+        47.333332,
+        30.993975
+      ]
+    ]
+  },
+  {
+    "id": "596",
+    "name": "Николаев. Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "16 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-10.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-10.jpg",
+    "bounds": [
+      [
+        47.0,
+        31.327309
+      ],
+      [
+        47.333332,
+        32.258072
+      ]
+    ]
+  },
+  {
+    "id": "597",
+    "name": "Березнеговатое (Березнеговатый). Трехверстовка, Военно-топографическая карта Шуберта.",
+    "size": "11 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/3хverst/29-11.zip",
+    "category": "Листы трехверстовки Шуберта",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29-11.jpg",
+    "bounds": [
+      [
+        47.0,
+        32.327309
+      ],
+      [
+        47.333332,
+        32.993977
+      ]
+    ]
   }
 ]
