@@ -7,8 +7,14 @@
     "category": "ПГМ и Фитинг",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/4e81b6232a6fc6bdeb7f175bdf28992c066b7aeb/images/fitingof-ICON.png",
     "bounds": [
-      [50.979816, 24.463530],
-      [55.912376, 31.295700]
+      [
+        50.979816,
+        24.46353
+      ],
+      [
+        55.912376,
+        31.2957
+      ]
     ]
   },
   {
@@ -19,8 +25,14 @@
     "category": "Карты РККА",
     "thumbnail": null,
     "bounds": [
-      [53.304479, 26.861603],
-      [54.675022, 28.260626]
+      [
+        53.304479,
+        26.861603
+      ],
+      [
+        54.675022,
+        28.260626
+      ]
     ]
   },
   {
@@ -31,8 +43,14 @@
     "category": "Верстовки",
     "thumbnail": null,
     "bounds": [
-      [52.478622, 26.815012],
-      [54.375046, 30.385517]
+      [
+        52.478622,
+        26.815012
+      ],
+      [
+        54.375046,
+        30.385517
+      ]
     ]
   },
   {
@@ -43,8 +61,14 @@
     "category": "Верстовки",
     "thumbnail": null,
     "bounds": [
-      [52.478622, 23.244507],
-      [54.375046, 26.815012]
+      [
+        52.478622,
+        23.244507
+      ],
+      [
+        54.375046,
+        26.815012
+      ]
     ]
   },
   {
@@ -55,8 +79,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/d9eadf1aa7a460b2f8937340c7016838ce4092a9/images/3xSHATCK.png",
     "bounds": [
-      [53.097426, 26.971001],
-      [53.614839, 28.149915]
+      [
+        53.097426,
+        26.971001
+      ],
+      [
+        53.614839,
+        28.149915
+      ]
     ]
   },
   {
@@ -67,8 +97,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [55.017851, 27.979685],
-      [55.531610, 29.214499]
+      [
+        55.017851,
+        27.979685
+      ],
+      [
+        55.53161,
+        29.214499
+      ]
     ]
   },
   {
@@ -79,8 +115,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [55.031187, 29.152329],
-      [55.531610, 30.352560]
+      [
+        55.031187,
+        29.152329
+      ],
+      [
+        55.53161,
+        30.35256
+      ]
     ]
   },
   {
@@ -91,8 +133,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.519957, 26.858592],
-      [55.037851, 28.077856]
+      [
+        54.519957,
+        26.858592
+      ],
+      [
+        55.037851,
+        28.077856
+      ]
     ]
   },
   {
@@ -103,8 +151,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.556376, 29.152329],
-      [55.054521, 30.360375]
+      [
+        54.556376,
+        29.152329
+      ],
+      [
+        55.054521,
+        30.360375
+      ]
     ]
   },
   {
@@ -115,8 +169,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.561965, 30.305550],
-      [55.054521, 31.499607]
+      [
+        54.561965,
+        30.30555
+      ],
+      [
+        55.054521,
+        31.499607
+      ]
     ]
   },
   {
@@ -127,8 +187,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.044550, 26.895131],
-      [54.565534, 28.098994]
+      [
+        54.04455,
+        26.895131
+      ],
+      [
+        54.565534,
+        28.098994
+      ]
     ]
   },
   {
@@ -139,8 +205,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.065943, 28.026724],
-      [54.576376, 29.228441]
+      [
+        54.065943,
+        28.026724
+      ],
+      [
+        54.576376,
+        29.228441
+      ]
     ]
   },
   {
@@ -151,8 +223,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.076899, 29.162693],
-      [54.584574, 30.372457]
+      [
+        54.076899,
+        29.162693
+      ],
+      [
+        54.584574,
+        30.372457
+      ]
     ]
   },
   {
@@ -163,8 +241,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.086855, 30.305550],
-      [54.584574, 31.492008]
+      [
+        54.086855,
+        30.30555
+      ],
+      [
+        54.584574,
+        31.492008
+      ]
     ]
   },
   {
@@ -175,8 +259,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.371161, 22.460085],
-      [53.926142, 23.699997]
+      [
+        53.371161,
+        22.460085
+      ],
+      [
+        53.926142,
+        23.699997
+      ]
     ]
   },
   {
@@ -187,8 +277,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.490755, 24.689284],
-      [54.028459, 25.907557]
+      [
+        53.490755,
+        24.689284
+      ],
+      [
+        54.028459,
+        25.907557
+      ]
     ]
   },
   {
@@ -199,8 +295,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.534590, 25.803854],
-      [54.064550, 27.019093]
+      [
+        53.53459,
+        25.803854
+      ],
+      [
+        54.06455,
+        27.019093
+      ]
     ]
   },
   {
@@ -211,8 +313,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.572016, 26.927401],
-      [54.085943, 28.136072]
+      [
+        53.572016,
+        26.927401
+      ],
+      [
+        54.085943,
+        28.136072
+      ]
     ]
   },
   {
@@ -223,8 +331,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.601858, 29.189600],
-      [54.110563, 30.349880]
+      [
+        53.601858,
+        29.1896
+      ],
+      [
+        54.110563,
+        30.34988
+      ]
     ]
   },
   {
@@ -235,8 +349,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.610106, 30.301041],
-      [54.110563, 31.469202]
+      [
+        53.610106,
+        30.301041
+      ],
+      [
+        54.110563,
+        31.469202
+      ]
     ]
   },
   {
@@ -247,8 +367,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.963080, 23.645384],
-      [53.510755, 24.870626]
+      [
+        52.96308,
+        23.645384
+      ],
+      [
+        53.510755,
+        24.870626
+      ]
     ]
   },
   {
@@ -259,8 +385,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.016760, 24.752987],
-      [53.554590, 25.952647]
+      [
+        53.01676,
+        24.752987
+      ],
+      [
+        53.55459,
+        25.952647
+      ]
     ]
   },
   {
@@ -271,8 +403,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.060518, 25.855546],
-      [53.592016, 27.067843]
+      [
+        53.060518,
+        25.855546
+      ],
+      [
+        53.592016,
+        27.067843
+      ]
     ]
   },
   {
@@ -283,8 +421,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.119238, 28.073519],
-      [53.621858, 29.258589]
+      [
+        53.119238,
+        28.073519
+      ],
+      [
+        53.621858,
+        29.258589
+      ]
     ]
   },
   {
@@ -295,8 +439,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.139479, 29.189856],
-      [53.633615, 30.355157]
+      [
+        53.139479,
+        29.189856
+      ],
+      [
+        53.633615,
+        30.355157
+      ]
     ]
   },
   {
@@ -307,8 +457,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [53.139086, 30.301041],
-      [53.633615, 31.454145]
+      [
+        53.139086,
+        30.301041
+      ],
+      [
+        53.633615,
+        31.454145
+      ]
     ]
   },
   {
@@ -319,8 +475,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.488672, 23.723023],
-      [53.036760, 24.917528]
+      [
+        52.488672,
+        23.723023
+      ],
+      [
+        53.03676,
+        24.917528
+      ]
     ]
   },
   {
@@ -331,8 +493,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.546732, 24.810088],
-      [53.080518, 26.013112]
+      [
+        52.546732,
+        24.810088
+      ],
+      [
+        53.080518,
+        26.013112
+      ]
     ]
   },
   {
@@ -343,8 +511,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.588667, 25.912388],
-      [53.117426, 27.083404]
+      [
+        52.588667,
+        25.912388
+      ],
+      [
+        53.117426,
+        27.083404
+      ]
     ]
   },
   {
@@ -355,8 +529,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.656813, 28.102252],
-      [53.159479, 29.258692]
+      [
+        52.656813,
+        28.102252
+      ],
+      [
+        53.159479,
+        29.258692
+      ]
     ]
   },
   {
@@ -367,8 +547,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.659720, 29.203972],
-      [53.161272, 30.362574]
+      [
+        52.65972,
+        29.203972
+      ],
+      [
+        53.161272,
+        30.362574
+      ]
     ]
   },
   {
@@ -379,8 +565,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [52.660650, 30.304179],
-      [53.161272, 31.453256]
+      [
+        52.66065,
+        30.304179
+      ],
+      [
+        53.161272,
+        31.453256
+      ]
     ]
   },
   {
@@ -391,8 +583,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.949408, 22.713805],
-      [52.508672, 23.910796]
+      [
+        51.949408,
+        22.713805
+      ],
+      [
+        52.508672,
+        23.910796
+      ]
     ]
   },
   {
@@ -403,8 +601,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.543806, 23.862069],
-      [52.085352, 25.039003]
+      [
+        51.543806,
+        23.862069
+      ],
+      [
+        52.085352,
+        25.039003
+      ]
     ]
   },
   {
@@ -415,8 +619,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.594919, 24.932742],
-      [52.133402, 26.103948]
+      [
+        51.594919,
+        24.932742
+      ],
+      [
+        52.133402,
+        26.103948
+      ]
     ]
   },
   {
@@ -427,8 +637,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.638434, 26.005238],
-      [52.167139, 27.156380]
+      [
+        51.638434,
+        26.005238
+      ],
+      [
+        52.167139,
+        27.15638
+      ]
     ]
   },
   {
@@ -439,8 +655,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.677828, 27.072133],
-      [52.205698, 28.243468]
+      [
+        51.677828,
+        27.072133
+      ],
+      [
+        52.205698,
+        28.243468
+      ]
     ]
   },
   {
@@ -451,8 +673,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.704321, 28.158596],
-      [52.205698, 29.305073]
+      [
+        51.704321,
+        28.158596
+      ],
+      [
+        52.205698,
+        29.305073
+      ]
     ]
   },
   {
@@ -463,8 +691,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [51.701182, 29.224766],
-      [52.199793, 30.359544]
+      [
+        51.701182,
+        29.224766
+      ],
+      [
+        52.199793,
+        30.359544
+      ]
     ]
   },
   {
@@ -475,8 +709,14 @@
     "category": "Польша запад рб",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/c42501b34d30ee90f84ce7158830f6dfb0151478/images/shubert.jpg",
     "bounds": [
-      [51.492915, 22.803270],
-      [56.004989, 28.365263]
+      [
+        51.492915,
+        22.80327
+      ],
+      [
+        56.004989,
+        28.365263
+      ]
     ]
   },
   {
@@ -487,8 +727,14 @@
     "category": "Польша 1937",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/dc46fa7225a8df05f54b373c131ca71d8542b95b/images/image.png",
     "bounds": [
-      [47.719664, 14.171629],
-      [56.096457, 28.453777]
+      [
+        47.719664,
+        14.171629
+      ],
+      [
+        56.096457,
+        28.453777
+      ]
     ]
   },
   {
@@ -499,8 +745,14 @@
     "category": "Карты РККА",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/5dbd6a869fafbf15290038ff95cc4309203b1d5c/images/7477.jpg",
     "bounds": [
-      [51.953462, 26.971504],
-      [54.024669, 30.027123]
+      [
+        51.953462,
+        26.971504
+      ],
+      [
+        54.024669,
+        30.027123
+      ]
     ]
   },
   {
@@ -511,8 +763,14 @@
     "category": "Карты РККА",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/db6b3a00b1013eac300a5bb79cdfca2c70929875/images/4706.jpg",
     "bounds": [
-      [51.230690, 23.001330],
-      [56.189891, 32.117942]
+      [
+        51.23069,
+        23.00133
+      ],
+      [
+        56.189891,
+        32.117942
+      ]
     ]
   },
   {
@@ -523,8 +781,14 @@
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": null,
     "bounds": [
-      [54.046485, 28.154211],
-      [54.134581, 29.214180]
+      [
+        54.046485,
+        28.154211
+      ],
+      [
+        54.134581,
+        29.21418
+      ]
     ]
   },
   {
@@ -535,8 +799,14 @@
     "category": "Верстовки",
     "thumbnail": null,
     "bounds": [
-      [54.330276, 25.662031],
-      [56.173275, 30.331186]
+      [
+        54.330276,
+        25.662031
+      ],
+      [
+        56.173275,
+        30.331186
+      ]
     ]
   },
   {
@@ -547,8 +817,14 @@
     "category": "другие Немецкие карты",
     "thumbnail": null,
     "bounds": [
-      [53.583838, 25.927823],
-      [54.026726, 26.971566]
+      [
+        53.583838,
+        25.927823
+      ],
+      [
+        54.026726,
+        26.971566
+      ]
     ]
   },
   {
@@ -559,8 +835,14 @@
     "category": "другие Немецкие карты",
     "thumbnail": null,
     "bounds": [
-      [53.288791, 28.823443],
-      [53.722180, 29.084585]
+      [
+        53.288791,
+        28.823443
+      ],
+      [
+        53.72218,
+        29.084585
+      ]
     ]
   },
   {
@@ -571,8 +853,2255 @@
     "category": "Московская губерня",
     "thumbnail": null,
     "bounds": [
-      [54.820351, 35.131821],
-      [56.839169, 39.286049]
+      [
+        54.820351,
+        35.131821
+      ],
+      [
+        56.839169,
+        39.286049
+      ]
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Карта Кусова уездов Московской губернии",
+    "size": "88 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1770%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%83%D1%81%D0%BE%D0%B2%D0%B0%20%D1%83%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5273.jpg",
+    "bounds": [
+      [
+        54.75,
+        35.0
+      ],
+      [
+        56.75,
+        39.25
+      ]
+    ]
+  },
+  {
+    "id": "50",
+    "name": "План генерального межевания Вологодского уезда",
+    "size": "74 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1789%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5828.jpg",
+    "bounds": [
+      [
+        59.007839,
+        38.57983
+      ],
+      [
+        59.871811,
+        40.365292
+      ]
+    ]
+  },
+  {
+    "id": "51",
+    "name": "ПГМ Тульской губернии",
+    "size": "256 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1790%20-%20%D0%9F%D0%93%D0%9C%20%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4651.jpg",
+    "bounds": [
+      [
+        52.68174,
+        35.963779
+      ],
+      [
+        54.896996,
+        39.156731
+      ]
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Серпуховской уезд на карте 1790 года",
+    "size": "59 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1790%20-%20%D0%A1%D0%B5%D1%80%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D1%83%D0%B5%D0%B7%D0%B4%20%D0%BD%D0%B0%20%D0%BA%D0%B0%D1%80%D1%82%D0%B5%201790%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9356.jpg",
+    "bounds": [
+      [
+        54.666666,
+        36.833333
+      ],
+      [
+        55.5,
+        38.916666
+      ]
+    ]
+  },
+  {
+    "id": "53",
+    "name": "План генерального межевания Калитвянского уезда",
+    "size": "49 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1796%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9A%D0%B0%D0%BB%D0%B8%D1%82%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5835.jpg",
+    "bounds": [
+      [
+        49.566666,
+        38.566666
+      ],
+      [
+        50.466666,
+        40.233333
+      ]
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Межевая карта Рязанского уезда",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1797%20-%20%D0%9C%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3897.jpg",
+    "bounds": [
+      [
+        54.25,
+        39.0
+      ],
+      [
+        55.75,
+        41.125
+      ]
+    ]
+  },
+  {
+    "id": "55",
+    "name": "План генерального межевания Валуйского уезда",
+    "size": "67 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1797%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%92%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7706.jpg",
+    "bounds": [
+      [
+        49.681847,
+        37.397461
+      ],
+      [
+        50.583237,
+        39.177246
+      ]
+    ]
+  },
+  {
+    "id": "56",
+    "name": "План генерального межевания Воронежского уезда",
+    "size": "59 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1797%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5831.jpg",
+    "bounds": [
+      [
+        51.270111,
+        38.791206
+      ],
+      [
+        52.049454,
+        40.301826
+      ]
+    ]
+  },
+  {
+    "id": "57",
+    "name": "План генерального межевания Землянского уезда",
+    "size": "80 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1797%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5833.jpg",
+    "bounds": [
+      [
+        51.533333,
+        37.8
+      ],
+      [
+        52.366666,
+        39.2
+      ]
+    ]
+  },
+  {
+    "id": "58",
+    "name": "План генерального межевания Коротоякского уезда",
+    "size": "72 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1797%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BE%D1%8F%D0%BA%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5834.jpg",
+    "bounds": [
+      [
+        50.5,
+        37.933333
+      ],
+      [
+        51.466666,
+        39.5
+      ]
+    ]
+  },
+  {
+    "id": "59",
+    "name": "План генерального межевания Тульского уезда",
+    "size": "38 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1798%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5933.jpg",
+    "bounds": [
+      [
+        53.933333,
+        37.1
+      ],
+      [
+        54.6,
+        38.3
+      ]
+    ]
+  },
+  {
+    "id": "60",
+    "name": "План генерального межевания Угличского уезда",
+    "size": "61 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1798%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A3%D0%B3%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5576.jpg",
+    "bounds": [
+      [
+        57.0,
+        37.833333
+      ],
+      [
+        57.833333,
+        39.5
+      ]
+    ]
+  },
+  {
+    "id": "61",
+    "name": "План генерального межевания Ярославского уезда",
+    "size": "55 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1798%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5434.jpg",
+    "bounds": [
+      [
+        57.166666,
+        38.916666
+      ],
+      [
+        57.833333,
+        40.583333
+      ]
+    ]
+  },
+  {
+    "id": "62",
+    "name": "План генерального межевания Княгининского уезда",
+    "size": "94 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1800%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9A%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5421.jpg",
+    "bounds": [
+      [
+        55.166666,
+        44.166666
+      ],
+      [
+        56.333333,
+        45.833333
+      ]
+    ]
+  },
+  {
+    "id": "63",
+    "name": "План генерального межевания Нижегородского уезда",
+    "size": "63 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1800%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5412.jpg",
+    "bounds": [
+      [
+        55.5,
+        43.333333
+      ],
+      [
+        56.333333,
+        44.666666
+      ]
+    ]
+  },
+  {
+    "id": "64",
+    "name": "План генерального межевания Семёновского уезда",
+    "size": "143 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1800%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5467.jpg",
+    "bounds": [
+      [
+        56.083333,
+        43.416666
+      ],
+      [
+        57.25,
+        46.666666
+      ]
+    ]
+  },
+  {
+    "id": "65",
+    "name": "План генерального межевания Тверского уезда",
+    "size": "96 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1800%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7054.jpg",
+    "bounds": [
+      [
+        56.25,
+        34.833333
+      ],
+      [
+        57.333333,
+        36.833333
+      ]
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Карта Рязанской губернии 1802 года",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1802%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201802%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11977.jpg",
+    "bounds": [
+      [
+        52.523716,
+        37.637245
+      ],
+      [
+        56.323853,
+        42.581264
+      ]
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Карта Выборгской губернии 1805 года",
+    "size": "132 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1805%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201805%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4502.jpg",
+    "bounds": [
+      [
+        60.042904,
+        26.235352
+      ],
+      [
+        62.714462,
+        32.958984
+      ]
+    ]
+  },
+  {
+    "id": "68",
+    "name": "План Чембарского уезда начала XIX века",
+    "size": "33 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1805%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%A7%D0%B5%D0%BC%D0%B1%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0%20XIX%20%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Планы городов",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10136.jpg",
+    "bounds": [
+      [
+        52.348763,
+        41.879883
+      ],
+      [
+        53.800651,
+        45.043945
+      ]
+    ]
+  },
+  {
+    "id": "69",
+    "name": "План генерального межевания Саратовского уезда (луговая сторона)",
+    "size": "120 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1805%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%28%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%29%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5765.jpg",
+    "bounds": [
+      [
+        51.1,
+        45.733333
+      ],
+      [
+        51.8,
+        46.9
+      ]
+    ]
+  },
+  {
+    "id": "70",
+    "name": "План генерального межевания Саратовского уезда",
+    "size": "95 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1805%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5763.jpg",
+    "bounds": [
+      [
+        51.166666,
+        45.266666
+      ],
+      [
+        52.6,
+        46.7
+      ]
+    ]
+  },
+  {
+    "id": "71",
+    "name": "План генерального межевания Славяносербского уезда",
+    "size": "44 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1805%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8355.jpg",
+    "bounds": [
+      [
+        48.1,
+        38.366666
+      ],
+      [
+        48.866666,
+        39.9
+      ]
+    ]
+  },
+  {
+    "id": "72",
+    "name": "План генерального межевания Ардатовского уезда Симбирской губернии",
+    "size": "70 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1808%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%90%D1%80%D0%B4%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/2767.jpg",
+    "bounds": [
+      [
+        54.166666,
+        45.366666
+      ],
+      [
+        55.133333,
+        46.466666
+      ]
+    ]
+  },
+  {
+    "id": "73",
+    "name": "План генерального межевания Симбирского уезда",
+    "size": "66 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1808%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "ПГМ и Фитинг",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5257.jpg",
+    "bounds": [
+      [
+        53.777409,
+        47.006729
+      ],
+      [
+        54.899494,
+        48.997578
+      ]
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Военная топографическая карта Крыма , составленная генерал-майором С. А. Мухиным",
+    "size": "64 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1817%20-%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%80%D1%8B%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4%2C%20%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB-%D0%BC%D0%B0%D0%B9%D0%BE%D1%80%D0%BE%D0%BC%20%D0%A1.%20%D0%90.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8508.jpg",
+    "bounds": [
+      [
+        44.339565,
+        32.387695
+      ],
+      [
+        45.981695,
+        36.694336
+      ]
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Карта Красного Села и окрестностей начала 19 века",
+    "size": "46 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1821%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%B5%D0%BB%D0%B0%20%D0%B8%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0%2019%20%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9115.jpg",
+    "bounds": [
+      [
+        59.633333,
+        29.933333
+      ],
+      [
+        59.8,
+        30.283333
+      ]
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Карта юго-западных окрестностей Красного Села 1825 года",
+    "size": "44 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1825%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%8E%D0%B3%D0%BE-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D1%85%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%B5%D0%BB%D0%B0%201825%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9101.jpg",
+    "bounds": [
+      [
+        59.616666,
+        29.866666
+      ],
+      [
+        59.75,
+        30.116666
+      ]
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Карта кварталов Архангельска 1828 года",
+    "size": "69 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1828%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%D0%BE%D0%B2%20%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%201828%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9199.jpg",
+    "bounds": [
+      [
+        64.524673,
+        40.502274
+      ],
+      [
+        64.567146,
+        40.567711
+      ]
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Карта Барнаульского округа 1835 г.",
+    "size": "71 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1835%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%91%D0%B0%D1%80%D0%BD%D0%B0%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%201835%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10144.jpg",
+    "bounds": [
+      [
+        51.289406,
+        77.958984
+      ],
+      [
+        55.078367,
+        86.572266
+      ]
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Семитопографическая карта окрестности Ст.-Петербурга 1840 г.",
+    "size": "31 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1840%20-%20%D0%A1%D0%B5%D0%BC%D0%B8%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%A1%D1%82.-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%201840%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8001.jpg",
+    "bounds": [
+      [
+        59.533333,
+        29.4
+      ],
+      [
+        60.0,
+        30.7
+      ]
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Верстовка окрестностей Красного Села 1842 года",
+    "size": "35 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1842%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%A1%D0%B5%D0%BB%D0%B0%201842%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9939.jpg",
+    "bounds": [
+      [
+        59.64554,
+        29.729004
+      ],
+      [
+        59.850333,
+        30.212402
+      ]
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Карта Менде Нижегородской губернии",
+    "size": "562 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1850%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4649.jpg",
+    "bounds": [
+      [
+        54.329338,
+        41.879883
+      ],
+      [
+        57.20771,
+        46.604004
+      ]
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Карта Менде Рязанской губернии",
+    "size": "128 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1850%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/1732.jpg",
+    "bounds": [
+      [
+        52.973049,
+        38.498432
+      ],
+      [
+        55.738834,
+        41.691547
+      ]
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Генеральный план Александровского уезда",
+    "size": "70 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1852%20-%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Планы городов",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9220.jpg",
+    "bounds": [
+      [
+        56.006008,
+        37.288845
+      ],
+      [
+        56.824238,
+        39.486217
+      ]
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Карта Менде Тверской губернии",
+    "size": "199 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1853%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4648.jpg",
+    "bounds": [
+      [
+        55.848104,
+        31.717213
+      ],
+      [
+        58.976807,
+        38.377414
+      ]
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Генеральная карта Санкт-Петербургского и Царскосельского уездов 1854 года",
+    "size": "48 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1854%20-%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%20%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2%201854%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6276.jpg",
+    "bounds": [
+      [
+        59.166666,
+        29.166666
+      ],
+      [
+        60.5,
+        31.0
+      ]
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Военно-топографическая карта Выборгской губернии 1855 г.",
+    "size": "76 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1855%20-%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201855%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3576.jpg",
+    "bounds": [
+      [
+        59.910976,
+        26.850586
+      ],
+      [
+        61.375673,
+        30.673828
+      ]
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Карта южной части Енисейской губернии четырёх округов 1855 г.",
+    "size": "51 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1855%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%8E%D0%B6%D0%BD%D0%BE%D0%B9%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%20%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%201855%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5489.jpg",
+    "bounds": [
+      [
+        51.5,
+        87.0
+      ],
+      [
+        58.0,
+        99.0
+      ]
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Карта Менде Ярославской губернии",
+    "size": "157 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1857%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3900.jpg",
+    "bounds": [
+      [
+        56.717258,
+        37.33564
+      ],
+      [
+        59.039127,
+        41.215267
+      ]
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Карта Менде Симбирской губернии",
+    "size": "184 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1861%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3901.jpg",
+    "bounds": [
+      [
+        52.765594,
+        45.373619
+      ],
+      [
+        55.951996,
+        50.213493
+      ]
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Карта Менде Тамбовской губернии",
+    "size": "265 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1862%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%20%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5623.jpg",
+    "bounds": [
+      [
+        51.258965,
+        38.48146
+      ],
+      [
+        55.165725,
+        43.63138
+      ]
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Трехверстная военно-топографическая карта Крыма",
+    "size": "172 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1865%20-%20%D0%A2%D1%80%D0%B5%D1%85%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%80%D1%8B%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3481.jpg",
+    "bounds": [
+      [
+        44.370987,
+        32.453613
+      ],
+      [
+        45.935871,
+        36.672363
+      ]
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Карта западных окрестностей Смоленска 1868 года",
+    "size": "74 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1868%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D1%85%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%201868%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10442.jpg",
+    "bounds": [
+      [
+        54.629338,
+        31.190186
+      ],
+      [
+        54.965002,
+        32.200928
+      ]
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Окрестности Рославля на верстовке Смоленской губернии",
+    "size": "100 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1871%20-%20%D0%9E%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%A0%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8F%20%D0%BD%D0%B0%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B5%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5726.jpg",
+    "bounds": [
+      [
+        53.666666,
+        32.316666
+      ],
+      [
+        54.083333,
+        33.366666
+      ]
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Карта Рязанской губернии 1875 года",
+    "size": "39 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1875%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201875%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6762.jpg",
+    "bounds": [
+      [
+        52.749594,
+        38.320312
+      ],
+      [
+        56.072035,
+        42.011719
+      ]
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Трехверстная военно-топографическая карта северо-востока Донбасса",
+    "size": "127 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1875%20-%20%D0%A2%D1%80%D0%B5%D1%85%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6753.jpg",
+    "bounds": [
+      [
+        47.583333,
+        37.666666
+      ],
+      [
+        50.166666,
+        40.333333
+      ]
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Трехверстная военно-топографическая карта юго-запада Донбасса",
+    "size": "139 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1875%20-%20%D0%A2%D1%80%D0%B5%D1%85%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D1%8E%D0%B3%D0%BE-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%B0%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6657.jpg",
+    "bounds": [
+      [
+        46.666666,
+        36.25
+      ],
+      [
+        49.333333,
+        39.083333
+      ]
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Карта Златоустовского горного округа И.В. Мушкетова",
+    "size": "30 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1876%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%20%D0%98.%D0%92.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9841.jpg",
+    "bounds": [
+      [
+        54.666666,
+        58.333333
+      ],
+      [
+        55.5,
+        60.666666
+      ]
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Пятиверстная карта Кавказского края",
+    "size": "153 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1877%20-%20%D0%9F%D1%8F%D1%82%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/1733.jpg",
+    "bounds": [
+      [
+        40.913513,
+        36.474609
+      ],
+      [
+        47.100045,
+        46.845703
+      ]
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Карта Тверской губернии 1879 года",
+    "size": "107 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1879%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201879%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6402.jpg",
+    "bounds": [
+      [
+        55.677584,
+        31.376953
+      ],
+      [
+        58.904646,
+        38.583984
+      ]
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Военно-Топографическая карта Казанской губернии",
+    "size": "291 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1880%20-%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%A2%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5236.jpg",
+    "bounds": [
+      [
+        54.25,
+        46.0
+      ],
+      [
+        56.833333,
+        51.5
+      ]
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Карта Стрельбицкого юга Астраханской губернии",
+    "size": "74 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1883%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%B1%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%8E%D0%B3%D0%B0%20%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10338.jpg",
+    "bounds": [
+      [
+        43.666666,
+        43.5
+      ],
+      [
+        48.0,
+        51.0
+      ]
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Карта Нижегородской губернии 1886 г.",
+    "size": "70 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1886%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201886%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9340.jpg",
+    "bounds": [
+      [
+        53.488046,
+        41.396484
+      ],
+      [
+        57.704147,
+        47.021484
+      ]
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Карта фарватера низовьев Камы 1886 года",
+    "size": "87 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1886%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%84%D0%B0%D1%80%D0%B2%D0%B0%D1%82%D0%B5%D1%80%D0%B0%20%D0%BD%D0%B8%D0%B7%D0%BE%D0%B2%D1%8C%D0%B5%D0%B2%20%D0%9A%D0%B0%D0%BC%D1%8B%201886%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7222.jpg",
+    "bounds": [
+      [
+        55.074303,
+        49.202778
+      ],
+      [
+        55.617226,
+        51.580185
+      ]
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Почвенная карта Нижегородской губернии 1886 г.",
+    "size": "56 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1886%20-%20%D0%9F%D0%BE%D1%87%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201886%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9341.jpg",
+    "bounds": [
+      [
+        54.110943,
+        41.660156
+      ],
+      [
+        57.421294,
+        46.845703
+      ]
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Карта Нолинского уезда 1887 года",
+    "size": "94 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1887%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201887%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4255.jpg",
+    "bounds": [
+      [
+        57.243394,
+        48.955078
+      ],
+      [
+        58.193871,
+        51.174316
+      ]
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Карта Ставропольской епархии 1889 года",
+    "size": "61 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1889%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8%201889%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7455.jpg",
+    "bounds": [
+      [
+        42.940339,
+        36.123047
+      ],
+      [
+        46.920255,
+        46.230469
+      ]
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Верстовка Крыма . Военно-Топографическое Депо. 1890-1897 годы.",
+    "size": "433 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1890%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9A%D1%80%D1%8B%D0%BC%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%A2%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%94%D0%B5%D0%BF%D0%BE.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5278.jpg",
+    "bounds": [
+      [
+        44.370987,
+        33.33252
+      ],
+      [
+        45.282617,
+        36.375732
+      ]
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Карта Княгининского уезда 1891 года",
+    "size": "33 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1891%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201891%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9344.jpg",
+    "bounds": [
+      [
+        55.279115,
+        44.230957
+      ],
+      [
+        56.096556,
+        45.395508
+      ]
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Карта Сарапульского уезда 1891 года",
+    "size": "74 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1891%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201891%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9108.jpg",
+    "bounds": [
+      [
+        55.677584,
+        52.075195
+      ],
+      [
+        57.938183,
+        54.580078
+      ]
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Карта озера Ильмень с истоком реки Волхова и устьями рек: Мсты, Ловати и Шелоны",
+    "size": "39 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1892%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D0%B7%D0%B5%D1%80%D0%B0%20%D0%98%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%8C%20%D1%81%20%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%BC%20%D1%80%D0%B5%D0%BA%D0%B8%20%D0%92%D0%BE%D0%BB%D1%85%D0%BE%D0%B2%D0%B0%20%D0%B8%20%D1%83%D1%81%D1%82%D1%8C%D1%8F%D0%BC%D0%B8%20%D1%80%D0%B5%D0%BA%20%D0%9C%D1%81%D1%82%D1%8B%2C%20%D0%9B%D0%BE%D0%B2%D0%B0%D1%82%D0%B8%20%D0%B8%20%D0%A8%D0%B5%D0%BB%D0%BE%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7641.jpg",
+    "bounds": [
+      [
+        57.966666,
+        30.5
+      ],
+      [
+        58.633333,
+        31.9
+      ]
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Карта Котельнического уезда 1893 года",
+    "size": "198 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1893%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201893%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4495.jpg",
+    "bounds": [
+      [
+        57.666666,
+        46.5
+      ],
+      [
+        59.166667,
+        49.0
+      ]
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Карта золотых приисков Верхтурья 1897 года",
+    "size": "35 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1897%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%D0%92%D0%B5%D1%80%D1%85%D1%82%D1%83%D1%80%D1%8C%D1%8F%201897%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9847.jpg",
+    "bounds": [
+      [
+        57.331188,
+        58.232559
+      ],
+      [
+        59.352489,
+        61.116383
+      ]
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Карта золотых приисков части Восточно-Екатеринбургского горного округа",
+    "size": "37 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1897%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9844.jpg",
+    "bounds": [
+      [
+        55.824131,
+        59.719189
+      ],
+      [
+        58.00198,
+        63.014763
+      ]
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Десятиверстка Уфимской губернии 1901 г.",
+    "size": "34 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1901%20-%20%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%A3%D1%84%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201901%20%D0%B3.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9759.jpg",
+    "bounds": [
+      [
+        52.375599,
+        50.625
+      ],
+      [
+        56.848972,
+        60.820312
+      ]
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Карта золотых приисков Оренбургской губернии 1901 года",
+    "size": "52 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1901%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201901%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6047.jpg",
+    "bounds": [
+      [
+        51.166666,
+        58.0
+      ],
+      [
+        55.5,
+        63.0
+      ]
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Карта Пензенской губернии с территориями раскольников",
+    "size": "45 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1902%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9F%D0%B5%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%20%D1%81%20%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%BC%D0%B8%20%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11803.jpg",
+    "bounds": [
+      [
+        52.333333,
+        42.333333
+      ],
+      [
+        55.0,
+        47.333333
+      ]
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Карта Калужского уезда 1905 года",
+    "size": "35 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1905%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201905%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9239.jpg",
+    "bounds": [
+      [
+        54.333333,
+        35.833333
+      ],
+      [
+        54.833333,
+        37.083333
+      ]
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Карта Ялты 1905 года",
+    "size": "72 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1905%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%AF%D0%BB%D1%82%D1%8B%201905%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7924.jpg",
+    "bounds": [
+      [
+        44.472991,
+        34.129028
+      ],
+      [
+        44.516093,
+        34.188766
+      ]
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Карта Южно-Сахалинска 1908 года",
+    "size": "42 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1908%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%AE%D0%B6%D0%BD%D0%BE-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%201908%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4212.jpg",
+    "bounds": [
+      [
+        46.916666,
+        142.683333
+      ],
+      [
+        47.016666,
+        142.808333
+      ]
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Карта окрестностей Новороссийска 1909 года",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1909%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%201909%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8611.jpg",
+    "bounds": [
+      [
+        44.6,
+        37.333333
+      ],
+      [
+        45.0,
+        37.833333
+      ]
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Карта севера Саратовской губернии 1910 года",
+    "size": "60 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1910%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B0%20%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201910%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9394.jpg",
+    "bounds": [
+      [
+        50.666666,
+        42.333333
+      ],
+      [
+        53.333333,
+        48.666666
+      ]
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Пятиверстка Приазовской низменности 1910 года",
+    "size": "69 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1910%20-%20%D0%9F%D1%8F%D1%82%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%9F%D1%80%D0%B8%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BD%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%201910%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7635.jpg",
+    "bounds": [
+      [
+        45.166666,
+        37.416666
+      ],
+      [
+        47.0,
+        40.916666
+      ]
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Карта Шуберта юга Московской губернии 1911 года",
+    "size": "26 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1911%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A8%D1%83%D0%B1%D0%B5%D1%80%D1%82%D0%B0%20%D1%8E%D0%B3%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/51.jpg",
+    "bounds": [
+      [
+        55.223499,
+        36.843704
+      ],
+      [
+        55.594578,
+        38.594479
+      ]
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Карта Оренбургской губернии 1913 года",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1913%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201913%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9836.jpg",
+    "bounds": [
+      [
+        50.513427,
+        52.03125
+      ],
+      [
+        56.170023,
+        66.445312
+      ]
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Карта Томской губернии 1914 года",
+    "size": "50 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1914%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201914%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10143.jpg",
+    "bounds": [
+      [
+        46.55886,
+        70.664062
+      ],
+      [
+        61.93895,
+        93.164062
+      ]
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Карта Петроградской губернии 1916 года",
+    "size": "68 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1916%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201916%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3494.jpg",
+    "bounds": [
+      [
+        57.652843,
+        26.427267
+      ],
+      [
+        60.916939,
+        34.667011
+      ]
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Карта Красноярского уезда Енисейской губернии 1919 года",
+    "size": "99 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1919%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201919%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4498.jpg",
+    "bounds": [
+      [
+        54.72462,
+        91.142578
+      ],
+      [
+        57.255281,
+        94.702148
+      ]
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Карта Кузнецкого уезда 1919 года",
+    "size": "57 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1919%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201919%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8588.jpg",
+    "bounds": [
+      [
+        50.903033,
+        84.199219
+      ],
+      [
+        55.078367,
+        90.791016
+      ]
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Карта Щегловского уезда 1919 года",
+    "size": "76 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1919%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A9%D0%B5%D0%B3%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201919%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8034.jpg",
+    "bounds": [
+      [
+        54.333333,
+        84.5
+      ],
+      [
+        56.166666,
+        88.5
+      ]
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Верстовка окрестностей Нижнего Тагила 1920 года",
+    "size": "62 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1920%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%A2%D0%B0%D0%B3%D0%B8%D0%BB%D0%B0%201920%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6645.jpg",
+    "bounds": [
+      [
+        57.666666,
+        59.833333
+      ],
+      [
+        58.1,
+        60.333333
+      ]
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Карта Рубинской волости 1920 года",
+    "size": "31 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1920%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D1%83%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%B8%201920%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7948.jpg",
+    "bounds": [
+      [
+        56.25,
+        87.75
+      ],
+      [
+        56.666666,
+        88.75
+      ]
+    ]
+  },
+  {
+    "id": "132",
+    "name": "10-верстная карта Томской губернии 1921 года",
+    "size": "77 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1921%20-%2010-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D0%BE%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201921%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3577.jpg",
+    "bounds": [
+      [
+        51.944265,
+        74.707031
+      ],
+      [
+        60.930432,
+        90.527344
+      ]
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Гипсометрическая карта Саратовского уезда 1923 г.",
+    "size": "107 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1923%20-%20%D0%93%D0%B8%D0%BF%D1%81%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%83%D0%B5%D0%B7%D0%B4%D0%B0%201923%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4506.jpg",
+    "bounds": [
+      [
+        50.944584,
+        45.021973
+      ],
+      [
+        52.696361,
+        46.867676
+      ]
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Карта Ачинского округа Сибирского края",
+    "size": "79 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1925%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%90%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%20%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9223.jpg",
+    "bounds": [
+      [
+        53.852527,
+        86.484375
+      ],
+      [
+        58.631217,
+        93.339844
+      ]
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Карта ВСНХ СССР 1925 части Иркутской области по течению Ангары от Свирска до Балаганска",
+    "size": "93 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1925%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%92%D0%A1%D0%9D%D0%A5%20%D0%A1%D0%A1%D0%A1%D0%A0%201925%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%20%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%BF%D0%BE%20%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D1%8B%20%D0%BE%D1%82%20%D0%A1%D0%B2%D0%B8%D1%80%D1%81%D0%BA%D0%B0%20%D0%B4%D0%BE%20%D0%91%D0%B0%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8495.jpg",
+    "bounds": [
+      [
+        52.789476,
+        102.480469
+      ],
+      [
+        54.072283,
+        103.776855
+      ]
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Карта Тюменского округа Уральского области 1925 г.",
+    "size": "42 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1925%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D1%8E%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%20%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%201925%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11379.jpg",
+    "bounds": [
+      [
+        55.666666,
+        62.333333
+      ],
+      [
+        58.0,
+        69.0
+      ]
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Верстовка Восточного Крыма 1926 года",
+    "size": "173 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1926%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9A%D1%80%D1%8B%D0%BC%D0%B0%201926%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/2716.jpg",
+    "bounds": [
+      [
+        44.754066,
+        35.079444
+      ],
+      [
+        45.495346,
+        36.701587
+      ]
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Карта Бирского кантона 1926 года",
+    "size": "88 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1926%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%91%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%201926%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9514.jpg",
+    "bounds": [
+      [
+        54.851315,
+        53.261719
+      ],
+      [
+        56.848972,
+        57.919922
+      ]
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Карта Зилаирского кантона 1926 г.",
+    "size": "75 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1926%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%97%D0%B8%D0%BB%D0%B0%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%201926%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9555.jpg",
+    "bounds": [
+      [
+        51.179343,
+        55.59082
+      ],
+      [
+        53.748711,
+        59.414062
+      ]
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Карта Тамьян-Катайского кантона 1926 года",
+    "size": "42 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1926%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D0%B0%D0%BC%D1%8C%D1%8F%D0%BD-%D0%9A%D0%B0%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%201926%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11500.jpg",
+    "bounds": [
+      [
+        53.0,
+        57.0
+      ],
+      [
+        54.833333,
+        60.0
+      ]
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Пятиверстная карта Кавказского края издания 1902-1938 годов",
+    "size": "349 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1926%20-%20%D0%9F%D1%8F%D1%82%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%201902-1938%20%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5289.jpg",
+    "bounds": [
+      [
+        35.402949,
+        35.743657
+      ],
+      [
+        47.072042,
+        52.910369
+      ]
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Карта Брянской губернии 1927 г.",
+    "size": "55 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1927%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D0%B8%201927%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11057.jpg",
+    "bounds": [
+      [
+        51.289406,
+        30.585938
+      ],
+      [
+        54.775346,
+        36.210938
+      ]
+    ]
+  },
+  {
+    "id": "143",
+    "name": "План Кенигсберга 1927 года",
+    "size": "79 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1927%20-%20%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%9A%D0%B5%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D0%B0%201927%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Планы городов",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7534.jpg",
+    "bounds": [
+      [
+        54.651591,
+        20.354919
+      ],
+      [
+        54.769009,
+        20.615845
+      ]
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Карта Автономной Области Ингушетии 1928 года",
+    "size": "35 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1928%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B9%20%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%98%D0%BD%D0%B3%D1%83%D1%88%D0%B5%D1%82%D0%B8%D0%B8%201928%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9235.jpg",
+    "bounds": [
+      [
+        42.495358,
+        44.29007
+      ],
+      [
+        43.727821,
+        45.388783
+      ]
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Карта Башкирии 1928 года",
+    "size": "50 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1928%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D0%B8%D0%B8%201928%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9452.jpg",
+    "bounds": [
+      [
+        50.064192,
+        51.855469
+      ],
+      [
+        58.077876,
+        63.632812
+      ]
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Карта Челябинского округа Уральской области",
+    "size": "85 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1928%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%20%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7450.jpg",
+    "bounds": [
+      [
+        54.007769,
+        59.985352
+      ],
+      [
+        56.022948,
+        64.643555
+      ]
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Карта Калужского округа 1929 г.",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1929%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%201929%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/557.jpg",
+    "bounds": [
+      [
+        53.666666,
+        35.333333
+      ],
+      [
+        55.333333,
+        37.166666
+      ]
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Карта Лужского округа 1929 года",
+    "size": "77 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1929%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9B%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%201929%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10389.jpg",
+    "bounds": [
+      [
+        57.938183,
+        27.37793
+      ],
+      [
+        59.467408,
+        31.157227
+      ]
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Карта Ачинского округа 1930 года",
+    "size": "46 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1930%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%90%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%201930%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11047.jpg",
+    "bounds": [
+      [
+        54.470038,
+        86.923828
+      ],
+      [
+        58.401712,
+        92.373047
+      ]
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Карта Нижне-Волжского края 1930 г.",
+    "size": "64 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1930%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%201930%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9146.jpg",
+    "bounds": [
+      [
+        44.5,
+        41.0
+      ],
+      [
+        53.0,
+        51.0
+      ]
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Карта Красногвардейского района Адыгейской АО 1931 г.",
+    "size": "43 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1931%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0%20%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%90%D0%9E%201931%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11406.jpg",
+    "bounds": [
+      [
+        44.878613,
+        39.272339
+      ],
+      [
+        45.279999,
+        40.044804
+      ]
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Карта Нижегородского округа 1931 г.",
+    "size": "33 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1931%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D0%B0%201931%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9338.jpg",
+    "bounds": [
+      [
+        55.178868,
+        42.539062
+      ],
+      [
+        58.12432,
+        46.757812
+      ]
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Карта Кимрского района 1932 года",
+    "size": "50 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1932%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B8%D0%BC%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0%201932%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9234.jpg",
+    "bounds": [
+      [
+        56.626747,
+        36.474258
+      ],
+      [
+        57.41338,
+        37.881557
+      ]
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Карта РККА Карельского перешейка 2 км.",
+    "size": "38 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1932%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D0%9A%D0%9A%D0%90%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D1%88%D0%B5%D0%B9%D0%BA%D0%B0%202%20%D0%BA%D0%BC.zip",
+    "category": "Карты РККА",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6170.jpg",
+    "bounds": [
+      [
+        59.933,
+        27.861328
+      ],
+      [
+        61.396719,
+        32.080078
+      ]
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Карта сельсоветов Кашинского района",
+    "size": "31 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1932%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%20%D0%9A%D0%B0%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9270.jpg",
+    "bounds": [
+      [
+        57.083333,
+        36.75
+      ],
+      [
+        57.666666,
+        38.0
+      ]
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Верстовка западного побережья центрального Крыма 1933 года",
+    "size": "172 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1933%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D1%8F%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9A%D1%80%D1%8B%D0%BC%D0%B0%201933%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6638.jpg",
+    "bounds": [
+      [
+        44.75,
+        33.5
+      ],
+      [
+        45.166666,
+        34.033333
+      ]
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Верстовка севера Арабатской Стрелки 1933 года",
+    "size": "64 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1933%20-%20%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B0%20%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B9%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B8%201933%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Верстовки",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6642.jpg",
+    "bounds": [
+      [
+        45.55,
+        34.8
+      ],
+      [
+        45.983333,
+        35.15
+      ]
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Карта Калужского района 1934 года",
+    "size": "31 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1934%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0%201934%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11044.jpg",
+    "bounds": [
+      [
+        54.3,
+        35.8
+      ],
+      [
+        54.766666,
+        36.766666
+      ]
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Карта Немцев Поволжья 1934 года 1:100000",
+    "size": "80 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1934%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9D%D0%B5%D0%BC%D1%86%D0%B5%D0%B2%20%D0%9F%D0%BE%D0%B2%D0%BE%D0%BB%D0%B6%D1%8C%D1%8F%201934%20%D0%B3%D0%BE%D0%B4%D0%B0%201%20100000%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4505.jpg",
+    "bounds": [
+      [
+        49.837982,
+        44.428711
+      ],
+      [
+        52.05249,
+        48.55957
+      ]
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Карта Петербурга - Ленинграда на 1934 - 1948 годы 1:10000",
+    "size": "149 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1934%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0%20-%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0%20%D0%BD%D0%B0%201934%20-%201948%20%D0%B3%D0%BE%D0%B4%D1%8B%201%2010000%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9160.jpg",
+    "bounds": [
+      [
+        59.784367,
+        30.080889
+      ],
+      [
+        60.064426,
+        30.548676
+      ]
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Карта РККА северо-запада Смоленской области 1:200000",
+    "size": "57 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1935%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D0%9A%D0%9A%D0%90%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%B0%20%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%201%20200000%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Карты РККА",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6219.jpg",
+    "bounds": null
+  },
+  {
+    "id": "162",
+    "name": "Топографическая карта Татарской АССР 1935 года",
+    "size": "98 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1935%20-%20%D0%A2%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9%20%D0%90%D0%A1%D0%A1%D0%A0%201935%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5121.jpg",
+    "bounds": [
+      [
+        54.0,
+        47.0
+      ],
+      [
+        56.666666,
+        54.5
+      ]
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Довоенная топографическая карта Восточной Пруссии Messtischblatt 1:25000 . Центральная часть.",
+    "size": "382 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1937%20-%20%D0%94%D0%BE%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%9F%D1%80%D1%83%D1%81%D1%81%D0%B8%D0%B8%20Messtischblatt%201%2025000%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3899.jpg",
+    "bounds": [
+      [
+        54.299145,
+        19.499142
+      ],
+      [
+        55.300758,
+        21.25001
+      ]
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Японская топографическая карта юга Приморского края 1937 года",
+    "size": "153 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1937%20-%20%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D1%8E%D0%B3%D0%B0%20%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%201937%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6309.jpg",
+    "bounds": [
+      [
+        43.333333,
+        131.5
+      ],
+      [
+        45.0,
+        133.333333
+      ]
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Карта Сталинградской области 1938 года",
+    "size": "60 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1938%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%201938%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3918.jpg",
+    "bounds": [
+      [
+        45.017159,
+        40.422207
+      ],
+      [
+        51.514923,
+        49.623802
+      ]
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Немецкая топографическая карта окрестностей Кенигсберга 1938 года",
+    "size": "51 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1938%20-%20%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%20%D1%82%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%9A%D0%B5%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D0%B0%201938%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4360.jpg",
+    "bounds": [
+      [
+        54.316523,
+        19.797363
+      ],
+      [
+        55.028022,
+        21.115723
+      ]
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Карта 1939 г",
+    "size": "111 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%201939%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5695.jpg",
+    "bounds": [
+      [
+        54.666667,
+        48.0
+      ],
+      [
+        56.5,
+        52.0
+      ]
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Карта РККА Приморья и Хабаровского края",
+    "size": "92 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D0%9A%D0%9A%D0%90%20%D0%9F%D1%80%D0%B8%D0%BC%D0%BE%D1%80%D1%8C%D1%8F%20%D0%B8%20%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D1%80%D0%B0%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Карты РККА",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5874.jpg",
+    "bounds": [
+      [
+        41.56625,
+        128.875031
+      ],
+      [
+        50.174503,
+        138.213547
+      ]
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Карта Ростовской области 1939 года",
+    "size": "44 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%201939%20%D0%B3%D0%BE%D0%B4%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11053.jpg",
+    "bounds": [
+      [
+        45.333333,
+        37.666666
+      ],
+      [
+        50.333333,
+        45.0
+      ]
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Подробная финская карта Северного Приладожья",
+    "size": "597 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B4%D0%BE%D0%B6%D1%8C%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5423.jpg",
+    "bounds": [
+      [
+        60.944997,
+        29.608354
+      ],
+      [
+        62.028259,
+        31.530984
+      ]
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Подробная финская карта севера и центра Ленинградской области",
+    "size": "433 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B0%20%D0%B8%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5395.jpg",
+    "bounds": [
+      [
+        59.96051,
+        29.597168
+      ],
+      [
+        61.047651,
+        30.893555
+      ]
+    ]
+  },
+  {
+    "id": "172",
+    "name": "Подробная финская карта северо-запада Ленинградской области",
+    "size": "451 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F%20%D1%84%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%B0%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/5393.jpg",
+    "bounds": [
+      [
+        60.133991,
+        28.355324
+      ],
+      [
+        61.04166,
+        29.642578
+      ]
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Топографическая карта окрестностей Владивостока 1939 г.",
+    "size": "38 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/RU/1939%20-%20%D0%A2%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0%201939%20%D0%B3.zip",
+    "category": "Обзорные и губернские",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4223.jpg",
+    "bounds": [
+      [
+        43.066666,
+        131.833333
+      ],
+      [
+        43.266666,
+        132.183333
+      ]
     ]
   }
 ]
