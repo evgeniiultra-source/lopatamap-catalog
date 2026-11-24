@@ -12481,5 +12481,23 @@
         26.995428
       ]
     ]
+  },
+  {
+    "id": "695",
+    "name": "немецкая сборка ds 1918",
+    "size": "63 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/ds.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": null,
+    "bounds": [
+      [
+        53.578054,
+        27.400551
+      ],
+      [
+        53.94659,
+        28.987656
+      ]
+    ]
   }
 ]
