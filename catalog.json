@@ -12733,5 +12733,113 @@
         31.640625
       ]
     ]
+  },
+  {
+    "id": "709",
+    "name": "Немецкая 3хВ Белыничи 1915 (XV-8)",
+    "size": "18.0 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_8_Bjelynytschi_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/709.jpg",
+    "bounds": [
+      [
+        53.435719,
+        29.003906
+      ],
+      [
+        54.162434,
+        30.585938
+      ]
+    ]
+  },
+  {
+    "id": "710",
+    "name": "Немецкая 3хВ Ивенец 1915 (XV-5)",
+    "size": "17.3 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_5_Iwenez_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/710.jpg",
+    "bounds": [
+      [
+        53.435719,
+        25.664062
+      ],
+      [
+        54.162434,
+        27.246094
+      ]
+    ]
+  },
+  {
+    "id": "711",
+    "name": "Немецкая 3хВ Орша 1915 (XIV-9)",
+    "size": "17.4 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XIV_Blatt_9_Orscha_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/711.jpg",
+    "bounds": [
+      [
+        53.956086,
+        30.058594
+      ],
+      [
+        54.673831,
+        31.640625
+      ]
+    ]
+  },
+  {
+    "id": "712",
+    "name": "Немецкая 3хВ Kopyss 1915 (XIV-8)",
+    "size": "18.7 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XIV_Blatt_8_Kopyss_1915_uw.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/712.jpg",
+    "bounds": [
+      [
+        53.956086,
+        29.003906
+      ],
+      [
+        54.673831,
+        30.585938
+      ]
+    ]
+  },
+  {
+    "id": "713",
+    "name": "Немецкая 3хВ Борисов 1915 (XIV-7)",
+    "size": "18.0 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XIV_Blatt_7_Borissow_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/713.jpg",
+    "bounds": [
+      [
+        53.956086,
+        27.949219
+      ],
+      [
+        54.673831,
+        29.355469
+      ]
+    ]
+  },
+  {
+    "id": "714",
+    "name": "Немецкая 3хВ Радошковичи 1915 (XIV-6)",
+    "size": "17.7 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XIV_Blatt_6_Radoschkowitschi_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/714.jpg",
+    "bounds": [
+      [
+        53.956086,
+        26.71875
+      ],
+      [
+        54.673831,
+        28.300781
+      ]
+    ]
   }
 ]
