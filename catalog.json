@@ -12499,5 +12499,23 @@
         28.109028
       ]
     ]
+  },
+  {
+    "id": "696",
+    "name": "Немецкая 3хВ Ошмяны 1915 (XIV-5)",
+    "size": "24.1 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XIV_Blatt_5_Oschmiana_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/696.jpg",
+    "bounds": [
+      [
+        53.930108,
+        25.685726
+      ],
+      [
+        54.58819,
+        27.072427
+      ]
+    ]
   }
 ]
