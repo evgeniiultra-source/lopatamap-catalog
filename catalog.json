@@ -12841,5 +12841,23 @@
         28.300781
       ]
     ]
+  },
+  {
+    "id": "715",
+    "name": "WIG 1:100 000 Минск 1933 (сборка 9 листов)",
+    "size": "29.5 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/wig_minsk_1933.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/715.jpg",
+    "bounds": [
+      [
+        53.435719,
+        26.894531
+      ],
+      [
+        54.265224,
+        28.652344
+      ]
+    ]
   }
 ]
