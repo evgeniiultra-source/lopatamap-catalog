@@ -12841,23 +12841,5 @@
         28.300781
       ]
     ]
-  },
-  {
-    "id": "715",
-    "name": "Немецкая 3хВ Сенно 1915 (XIII-8, авто)",
-    "size": "8.2 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/senno_1915.zip",
-    "category": "другие Немецкие карты",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/715.jpg",
-    "bounds": [
-      [
-        54.4086,
-        28.952
-      ],
-      [
-        55.1425,
-        30.534
-      ]
-    ]
   }
 ]
