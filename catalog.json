@@ -12571,5 +12571,113 @@
         28.300781
       ]
     ]
+  },
+  {
+    "id": "700",
+    "name": "Немецкая 3хВ Старый Быхов 1915 (XVI-8)",
+    "size": "15.8 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVI_Blatt_8_Sztary_Bychow_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/700.jpg",
+    "bounds": [
+      [
+        53.014783,
+        29.003906
+      ],
+      [
+        53.748711,
+        30.585938
+      ]
+    ]
+  },
+  {
+    "id": "701",
+    "name": "Немецкая 3хВ Чериков 1915 (XVI-9)",
+    "size": "15.6 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVI_Blatt_9_Tscherikow_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/701.jpg",
+    "bounds": [
+      [
+        53.014783,
+        30.234375
+      ],
+      [
+        53.748711,
+        31.640625
+      ]
+    ]
+  },
+  {
+    "id": "702",
+    "name": "Немецкая 3хВ Клецк 1915 (XVII-5)",
+    "size": "16.3 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVII_Blatt_5_Klezk_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/702.jpg",
+    "bounds": [
+      [
+        52.48278,
+        25.839844
+      ],
+      [
+        53.225768,
+        27.246094
+      ]
+    ]
+  },
+  {
+    "id": "703",
+    "name": "Немецкая 3хВ Слуцк 1915 (XVII-6)",
+    "size": "15.9 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVII_Blatt_6_Sluzk_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/703.jpg",
+    "bounds": [
+      [
+        52.48278,
+        26.894531
+      ],
+      [
+        53.225768,
+        28.300781
+      ]
+    ]
+  },
+  {
+    "id": "704",
+    "name": "Немецкая 3хВ Глуск 1915 (XVII-7)",
+    "size": "15.9 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVII_Blatt_7_Glussk_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/704.jpg",
+    "bounds": [
+      [
+        52.48278,
+        27.949219
+      ],
+      [
+        53.225768,
+        29.53125
+      ]
+    ]
+  },
+  {
+    "id": "705",
+    "name": "Немецкая 3хВ Бобруйск 1915 (XVII-8)",
+    "size": "16.8 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVII_Blatt_8_Bobrujssk_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/705.jpg",
+    "bounds": [
+      [
+        52.48278,
+        29.003906
+      ],
+      [
+        53.225768,
+        30.585938
+      ]
+    ]
   }
 ]
