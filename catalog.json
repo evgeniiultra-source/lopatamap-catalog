@@ -12485,18 +12485,18 @@
   {
     "id": "695",
     "name": "Немецкая 3хВ Минск 1915 (XV-6)",
-    "size": "8.5 MB",
+    "size": "15.9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_6_Minsk_1915_loc.zip",
     "category": "другие Немецкие карты",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/695.jpg",
     "bounds": [
       [
-        53.578014,
-        26.975266
+        53.435719,
+        26.71875
       ],
       [
-        54.067665,
-        28.109028
+        54.162434,
+        28.300781
       ]
     ]
   },
