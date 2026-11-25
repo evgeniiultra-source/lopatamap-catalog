@@ -12679,5 +12679,59 @@
         30.585938
       ]
     ]
+  },
+  {
+    "id": "706",
+    "name": "Немецкая 3хВ Мир 1915 (XVI-5)",
+    "size": "16.6 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVI_Blatt_5_Mir_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/706.jpg",
+    "bounds": [
+      [
+        52.908902,
+        25.664062
+      ],
+      [
+        53.644638,
+        27.246094
+      ]
+    ]
+  },
+  {
+    "id": "707",
+    "name": "Немецкая 3хВ Жиздра 1915 (XV-12)",
+    "size": "16.9 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_12_Shisdra_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/707.jpg",
+    "bounds": [
+      [
+        53.435719,
+        33.574219
+      ],
+      [
+        54.162434,
+        35.15625
+      ]
+    ]
+  },
+  {
+    "id": "708",
+    "name": "Немецкая 3хВ Могилёв 1915 (XV-9)",
+    "size": "17.8 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_9_Mohilew_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/708.jpg",
+    "bounds": [
+      [
+        53.435719,
+        30.058594
+      ],
+      [
+        54.162434,
+        31.640625
+      ]
+    ]
   }
 ]
