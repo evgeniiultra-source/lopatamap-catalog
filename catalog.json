@@ -12517,5 +12517,59 @@
         27.246094
       ]
     ]
+  },
+  {
+    "id": "697",
+    "name": "Немецкая 3хВ Игумен 1915 (XV-7)",
+    "size": "16.2 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XV_Blatt_7_Igumjen_Archiwm_WIG_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/697.jpg",
+    "bounds": [
+      [
+        53.435719,
+        27.949219
+      ],
+      [
+        54.162434,
+        29.355469
+      ]
+    ]
+  },
+  {
+    "id": "698",
+    "name": "Немецкая 3хВ Пуховичи 1915 (XVI-7)",
+    "size": "16.7 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVI_Blatt_7_Puchowitschi_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/698.jpg",
+    "bounds": [
+      [
+        53.014783,
+        27.949219
+      ],
+      [
+        53.748711,
+        29.53125
+      ]
+    ]
+  },
+  {
+    "id": "699",
+    "name": "Немецкая 3хВ Копыль 1915 (XVI-6)",
+    "size": "15.9 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Reihe_XVI_Blatt_6_Kopyl_1915_loc.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/699.jpg",
+    "bounds": [
+      [
+        53.014783,
+        26.894531
+      ],
+      [
+        53.748711,
+        28.300781
+      ]
+    ]
   }
 ]
