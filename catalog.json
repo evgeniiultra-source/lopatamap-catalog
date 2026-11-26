@@ -13021,23 +13021,5 @@
         30.555045
       ]
     ]
-  },
-  {
-    "id": "732",
-    "name": "Немецкая Беларусь 1941–44 (все масштабы)",
-    "size": "57 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-belarus.zip",
-    "category": "другие Немецкие карты",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/732.jpg?v=2",
-    "bounds": [
-      [
-        50.736455,
-        22.5
-      ],
-      [
-        55.776573,
-        28.125
-      ]
-    ]
   }
 ]
