@@ -23,7 +23,7 @@
     "size": "467 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/rkka-minsk-250m.zip",
     "category": "Карты РККА",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/2.jpg",
     "bounds": [
       [
         53.304479,
@@ -41,7 +41,7 @@
     "size": "580 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-centr.zip",
     "category": "Верстовки",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/3.jpg",
     "bounds": [
       [
         52.478622,
@@ -59,7 +59,7 @@
     "size": "500 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/verstovka-belarus-zapad.zip",
     "category": "Верстовки",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/4.jpg",
     "bounds": [
       [
         52.478622,
@@ -95,7 +95,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/12-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6.jpg",
     "bounds": [
       [
         55.017851,
@@ -113,7 +113,7 @@
     "size": "15мг",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/12-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/7.jpg",
     "bounds": [
       [
         55.031187,
@@ -131,7 +131,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-6.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/8.jpg",
     "bounds": [
       [
         54.519957,
@@ -149,7 +149,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/9.jpg",
     "bounds": [
       [
         54.556376,
@@ -167,7 +167,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/13-9.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/10.jpg",
     "bounds": [
       [
         54.561965,
@@ -185,7 +185,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-6.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/11.jpg",
     "bounds": [
       [
         54.04455,
@@ -203,7 +203,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/12.jpg",
     "bounds": [
       [
         54.065943,
@@ -221,7 +221,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/13.jpg",
     "bounds": [
       [
         54.076899,
@@ -239,7 +239,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/14-9.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/14.jpg",
     "bounds": [
       [
         54.086855,
@@ -257,7 +257,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-2.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/15.jpg",
     "bounds": [
       [
         53.371161,
@@ -275,7 +275,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-4.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/16.jpg",
     "bounds": [
       [
         53.490755,
@@ -293,7 +293,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-5.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/17.jpg",
     "bounds": [
       [
         53.53459,
@@ -311,7 +311,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-6.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/18.jpg",
     "bounds": [
       [
         53.572016,
@@ -329,7 +329,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/19.jpg",
     "bounds": [
       [
         53.601858,
@@ -347,7 +347,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-9.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/20.jpg",
     "bounds": [
       [
         53.610106,
@@ -365,7 +365,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-3.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/21.jpg",
     "bounds": [
       [
         52.96308,
@@ -383,7 +383,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-4.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/22.jpg",
     "bounds": [
       [
         53.01676,
@@ -401,7 +401,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-5.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/23.jpg",
     "bounds": [
       [
         53.060518,
@@ -419,7 +419,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/24.jpg",
     "bounds": [
       [
         53.119238,
@@ -437,7 +437,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/25.jpg",
     "bounds": [
       [
         53.139479,
@@ -455,7 +455,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/16-9.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/26.jpg",
     "bounds": [
       [
         53.139086,
@@ -473,7 +473,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-3.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/27.jpg",
     "bounds": [
       [
         52.488672,
@@ -491,7 +491,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-4.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/28.jpg",
     "bounds": [
       [
         52.546732,
@@ -509,7 +509,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-5.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/29.jpg",
     "bounds": [
       [
         52.588667,
@@ -527,7 +527,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/30.jpg",
     "bounds": [
       [
         52.656813,
@@ -545,7 +545,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/31.jpg",
     "bounds": [
       [
         52.65972,
@@ -563,7 +563,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/17-9.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/32.jpg",
     "bounds": [
       [
         52.66065,
@@ -581,7 +581,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/18-2.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/33.jpg",
     "bounds": [
       [
         51.949408,
@@ -599,7 +599,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-3.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/34.jpg",
     "bounds": [
       [
         51.543806,
@@ -617,7 +617,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-4.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/35.jpg",
     "bounds": [
       [
         51.594919,
@@ -635,7 +635,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-5.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/36.jpg",
     "bounds": [
       [
         51.638434,
@@ -653,7 +653,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-6.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/37.jpg",
     "bounds": [
       [
         51.677828,
@@ -671,7 +671,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/38.jpg",
     "bounds": [
       [
         51.704321,
@@ -689,7 +689,7 @@
     "size": null,
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/19-8.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/39.jpg",
     "bounds": [
       [
         51.701182,
@@ -779,7 +779,7 @@
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-7.zip",
     "category": "Листы трехверстовки Шуберта",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/44.jpg",
     "bounds": [
       [
         54.046485,
@@ -797,7 +797,7 @@
     "size": "592 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/%D0%92%D0%95%D0%A0%D0%A1%D0%A2%D0%9E%D0%92%D0%9A%D0%90%20%D0%A0%D0%91%20%D0%A1%D0%95%D0%92%D0%95%D0%A0.zip",
     "category": "Верстовки",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/45.jpg",
     "bounds": [
       [
         54.330276,
@@ -815,7 +815,7 @@
     "size": "11.9 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/%D0%B8%D0%B2%D0%B5%D0%BD%D0%B5%D1%86%20%D0%BD%D0%B5%D0%BC%201915.zip",
     "category": "другие Немецкие карты",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/46.jpg",
     "bounds": [
       [
         53.583838,
@@ -833,7 +833,7 @@
     "size": "1.7 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BE%20%D1%81%D0%B2%D0%B8%D1%81%D0%BB%D0%BE%D1%87%D1%8C%201916.zip",
     "category": "другие Немецкие карты",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/47.jpg",
     "bounds": [
       [
         53.288791,
@@ -851,7 +851,7 @@
     "size": "148 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/Moscow/schubert-moscow-1860.zip",
     "category": "Московская губерня",
-    "thumbnail": null,
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/48.jpg",
     "bounds": [
       [
         54.820351,
