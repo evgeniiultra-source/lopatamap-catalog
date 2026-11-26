@@ -13025,18 +13025,18 @@
   {
     "id": "725",
     "name": "Немецкая 1:25 000 Беларусь (1941–44)",
-    "size": "57 MB",
+    "size": "10 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25_belarus.zip",
     "category": "другие Немецкие карты",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/725.jpg?v=3",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/725.jpg?v=4",
     "bounds": [
       [
-        51.549751,
-        23.57666
+        51.399206,
+        23.554688
       ],
       [
-        54.927142,
-        27.663574
+        55.677584,
+        28.125
       ]
     ]
   }
