@@ -13021,5 +13021,23 @@
         30.555045
       ]
     ]
+  },
+  {
+    "id": "725",
+    "name": "Немецкая 3хВ Свирь 1915 (XIII-5)",
+    "size": "18 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/ger3v-xiii-5-swir-1915.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/725.jpg",
+    "bounds": [
+      [
+        54.367789,
+        25.488281
+      ],
+      [
+        55.078369,
+        27.070313
+      ]
+    ]
   }
 ]
