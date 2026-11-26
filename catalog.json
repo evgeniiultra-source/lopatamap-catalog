@@ -13023,128 +13023,20 @@
     ]
   },
   {
-    "id": "725",
-    "name": "Немецкая 1:25 000 Беларусь (1941–44)",
-    "size": "29 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25_belarus.zip",
+    "id": "732",
+    "name": "Немецкая Беларусь 1941–44 (все масштабы)",
+    "size": "57 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-belarus.zip",
     "category": "другие Немецкие карты",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/725.jpg?v=5",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/732.jpg?v=2",
     "bounds": [
       [
-        51.454007,
-        23.554688
+        50.736455,
+        22.5
       ],
       [
-        54.927142,
+        55.776573,
         28.125
-      ]
-    ]
-  },
-  {
-    "id": "726",
-    "name": "Немецкая 1:200 000 Беларусь (1941–44)",
-    "size": "10 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z11.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/726.jpg?v=1",
-    "bounds": [
-      [
-        51.399206,
-        23.554688
-      ],
-      [
-        55.677584,
-        28.125
-      ]
-    ]
-  },
-  {
-    "id": "727",
-    "name": "Немецкая 1:100 000 Беларусь (1941–44)",
-    "size": "29 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z12.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/727.jpg?v=1",
-    "bounds": [
-      [
-        51.454007,
-        23.554688
-      ],
-      [
-        54.927142,
-        28.125
-      ]
-    ]
-  },
-  {
-    "id": "728",
-    "name": "Немецкая 1:50 000 Беларусь (1941–44) (часть 1 из 4)",
-    "size": "23 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z13-00.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/728.jpg?v=1",
-    "bounds": [
-      [
-        53.252069,
-        23.554688
-      ],
-      [
-        54.927142,
-        25.708008
-      ]
-    ]
-  },
-  {
-    "id": "729",
-    "name": "Немецкая 1:50 000 Беларусь (1941–44) (часть 2 из 4)",
-    "size": "14 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z13-10.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/729.jpg?v=1",
-    "bounds": [
-      [
-        53.252069,
-        25.708008
-      ],
-      [
-        54.927142,
-        27.905273
-      ]
-    ]
-  },
-  {
-    "id": "730",
-    "name": "Немецкая 1:50 000 Беларусь (1941–44) (часть 3 из 4)",
-    "size": "20 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z13-01.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/730.jpg?v=1",
-    "bounds": [
-      [
-        51.481383,
-        23.554688
-      ],
-      [
-        53.252069,
-        25.708008
-      ]
-    ]
-  },
-  {
-    "id": "731",
-    "name": "Немецкая 1:50 000 Беларусь (1941–44) (часть 4 из 4)",
-    "size": "11 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem25-z13-11.zip",
-    "category": "Немецкие по масштабам",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/731.jpg?v=1",
-    "bounds": [
-      [
-        51.481383,
-        25.708008
-      ],
-      [
-        53.252069,
-        27.905273
       ]
     ]
   }
