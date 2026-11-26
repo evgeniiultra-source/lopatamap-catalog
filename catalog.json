@@ -12841,5 +12841,185 @@
         28.300781
       ]
     ]
+  },
+  {
+    "id": "715",
+    "name": "1910 - Одноверстовка южной Беларуси",
+    "size": "386 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1910-odnoverstovka-juzhnoj-belarusi.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/715.jpg",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "id": "716",
+    "name": "1925 - Польская топографическая карта юго-восточных окраин Бреста 1925 г",
+    "size": "63 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1925-polskaja-topograficheskaja-karta-jugo-vostochnyh-okrain.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/716.jpg",
+    "bounds": [
+      [
+        51.898781,
+        23.692877
+      ],
+      [
+        52.094807,
+        24.044792
+      ]
+    ]
+  },
+  {
+    "id": "717",
+    "name": "1930 - Двухверстная карта севера Беларуси - Витебской области,",
+    "size": "275 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1930-dvuhverstnaja-karta-severa-belarusi-vitebskoj-oblasti.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/717.jpg",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  {
+    "id": "718",
+    "name": "1933 - Польская тактическая карта центральной Беларуси 1933 года",
+    "size": "547 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1933-polskaja-takticheskaja-karta-centralnoj-belarusi-1933-g.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/718.jpg",
+    "bounds": [
+      [
+        51.492915,
+        22.80327
+      ],
+      [
+        56.004989,
+        28.365263
+      ]
+    ]
+  },
+  {
+    "id": "719",
+    "name": "1935 - Карта РККА Беларуси 1 200000",
+    "size": "256 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1935-karta-rkka-belarusi-1-200000.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/719.jpg",
+    "bounds": [
+      [
+        51.23069,
+        23.00133
+      ],
+      [
+        56.189891,
+        32.117942
+      ]
+    ]
+  },
+  {
+    "id": "720",
+    "name": "1936 - Карта РККА N-35 (Б)",
+    "size": "191 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1936-karta-rkka-n-35-b.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/720.jpg",
+    "bounds": [
+      [
+        53.966106,
+        26.966354
+      ],
+      [
+        56.037689,
+        30.021973
+      ]
+    ]
+  },
+  {
+    "id": "721",
+    "name": "1936 - Карта РККА N-35 (В)",
+    "size": "182 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1936-karta-rkka-n-35-v.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/721.jpg",
+    "bounds": [
+      [
+        51.964173,
+        23.973564
+      ],
+      [
+        54.034877,
+        27.029183
+      ]
+    ]
+  },
+  {
+    "id": "722",
+    "name": "1936 - Карта РККА N-35 (Г)",
+    "size": "184 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1936-karta-rkka-n-35-g.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/722.jpg",
+    "bounds": [
+      [
+        51.953462,
+        26.971504
+      ],
+      [
+        54.024669,
+        30.027123
+      ]
+    ]
+  },
+  {
+    "id": "723",
+    "name": "1943 - Карта РККА Бреста и окрестностей",
+    "size": "17 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1943-karta-rkka-bresta-i-okrestnostej.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/723.jpg",
+    "bounds": [
+      [
+        51.976791,
+        23.475285
+      ],
+      [
+        52.188299,
+        23.767059
+      ]
+    ]
+  },
+  {
+    "id": "724",
+    "name": "1944 - Немецкая карта пригорода Могилёва 1944 года",
+    "size": "25 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/1944-nemeckaja-karta-prigoroda-mogileva-1944-goda.zip",
+    "category": "Беларусь 1900–1948",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/724.jpg",
+    "bounds": [
+      [
+        53.807742,
+        30.108789
+      ],
+      [
+        54.010413,
+        30.555045
+      ]
+    ]
   }
 ]
