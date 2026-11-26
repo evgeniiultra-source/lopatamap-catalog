@@ -12851,12 +12851,12 @@
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/715.jpg",
     "bounds": [
       [
-        0,
-        0
+        51.316881,
+        23.225098
       ],
       [
-        0,
-        0
+        52.522906,
+        27.597656
       ]
     ]
   },
@@ -12887,12 +12887,12 @@
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/717.jpg",
     "bounds": [
       [
-        0,
-        0
+        54.213861,
+        25.356445
       ],
       [
-        0,
-        0
+        56.267761,
+        30.366211
       ]
     ]
   },
