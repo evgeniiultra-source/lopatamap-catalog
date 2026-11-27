@@ -308,18 +308,18 @@
   {
     "id": "18",
     "name": "3хВ 15-6",
-    "size": null,
+    "size": "19 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-6.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/18.jpg",
     "bounds": [
       [
-        53.572016,
-        26.927401
+        0.32373,
+        0.574219
       ],
       [
-        54.085943,
-        28.136072
+        0.320312,
+        0.578613
       ]
     ]
   },
@@ -13037,6 +13037,24 @@
       [
         55.078369,
         27.070313
+      ]
+    ]
+  },
+  {
+    "id": "726",
+    "name": "Немецкая Беларусь 1941–44 (1:25 000, все масштабы)",
+    "size": "337 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/nem-belarus-1941-44.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/726.jpg",
+    "bounds": [
+      [
+        51.495065,
+        23.57666
+      ],
+      [
+        55.677584,
+        28.081055
       ]
     ]
   }
