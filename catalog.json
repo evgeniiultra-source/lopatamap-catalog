@@ -307,7 +307,7 @@
   },
   {
     "id": "18",
-    "name": "3хВ 15-6 (тест)",
+    "name": "3хВ 15-6",
     "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-6.zip",
     "category": "Листы трехверстовки Шуберта",
