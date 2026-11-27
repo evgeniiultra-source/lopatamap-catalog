@@ -13066,5 +13066,23 @@
         29.355469
       ]
     ]
+  },
+  {
+    "id": "727",
+    "name": "Немецкая 1:100 000 юг Беларуси 1915 (Брест–Пинск)",
+    "size": "339 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/ger100-kdwr-south-belarus-1915.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/727.jpg",
+    "bounds": [
+      [
+        51.495065,
+        23.137207
+      ],
+      [
+        52.802761,
+        27.333984
+      ]
+    ]
   }
 ]
