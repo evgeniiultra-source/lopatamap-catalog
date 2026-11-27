@@ -92,18 +92,18 @@
   {
     "id": "6",
     "name": "3хВ 12-7 Полоцк",
-    "size": null,
+    "size": "20 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/12-7.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6.jpg",
     "bounds": [
       [
-        55.017851,
-        27.979685
+        0.316406,
+        0.577637
       ],
       [
-        55.53161,
-        29.214499
+        0.313477,
+        0.581543
       ]
     ]
   },
@@ -13046,6 +13046,24 @@
       [
         55.078369,
         27.070313
+      ]
+    ]
+  },
+  {
+    "id": "726",
+    "name": "Немецкая 3хВ Полоцк 1915 (XII-7)",
+    "size": "18 MB",
+    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/ger3v-xii-7-polotsk-1915.zip",
+    "category": "другие Немецкие карты",
+    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/726.jpg",
+    "bounds": [
+      [
+        54.876607,
+        27.773438
+      ],
+      [
+        55.578345,
+        29.355469
       ]
     ]
   }
