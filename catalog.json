@@ -307,19 +307,19 @@
   },
   {
     "id": "18",
-    "name": "3хВ 15-6 Minsk",
-    "size": "17 MB",
+    "name": "3хВ 15-6",
+    "size": "15 MB",
     "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/15-6.zip",
     "category": "Листы трехверстовки Шуберта",
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/18.jpg",
     "bounds": [
       [
-        0.323242,
-        0.574219
+        53.540307,
+        26.71875
       ],
       [
-        0.320312,
-        0.578613
+        54.162434,
+        28.300781
       ]
     ]
   },
@@ -13049,4 +13049,4 @@
       ]
     ]
   }
-]\n
+]
