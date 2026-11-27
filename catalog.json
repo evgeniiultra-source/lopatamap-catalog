@@ -98,12 +98,12 @@
     "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/6.jpg",
     "bounds": [
       [
-        0.316406,
-        0.577637
+        54.977614,
+        27.949219
       ],
       [
-        0.313477,
-        0.581543
+        55.578345,
+        29.355469
       ]
     ]
   },
@@ -13046,24 +13046,6 @@
       [
         55.078369,
         27.070313
-      ]
-    ]
-  },
-  {
-    "id": "726",
-    "name": "Немецкая 3хВ Полоцк 1915 (XII-7)",
-    "size": "18 MB",
-    "url": "https://huggingface.co/datasets/evgeniiGAns/MAPS/resolve/main/ger3v-xii-7-polotsk-1915.zip",
-    "category": "другие Немецкие карты",
-    "thumbnail": "https://raw.githubusercontent.com/evgeniiultra-source/lopatamap-catalog/main/images/726.jpg",
-    "bounds": [
-      [
-        54.876607,
-        27.773438
-      ],
-      [
-        55.578345,
-        29.355469
       ]
     ]
   }
